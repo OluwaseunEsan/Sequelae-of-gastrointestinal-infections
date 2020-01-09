@@ -1,0 +1,10 @@
+﻿Clinical outcomes,,
+,,
+Outcome,Definition in CPRD†,Definition in HES†
+Reactive arthritis (ReA),Any occurrence of Read codes for reactive arthritis up to 12 months after “Index date”.,ICD-10 code for reactive arthritis using “any mentions” in the diagnostic category. 
+Guillain-Barré Syndrome (GBS),Any occurrence of Read codes for Guillain-Barré syndrome up to 12 months. after “Index date”.,ICD-10 code for GBS using “any mentions” in the diagnostic category.
+Irritable bowel syndrome (IBS),Any occurrence of Read codes for Irritable bowel syndrome up to 12 months after “Index date”.,ICD-10 code for IBS using “any mentions” in the diagnostic category.
+Ulcerative colitis (UC),Any occurrence of Read codes for ulcerative colitis up to 12 months after “Index date”.,ICD-10 code for ulcerative colitis using “any mentions” in the diagnostic category and OPCS-4 code for radiology and histology.
+Crohn’s disease (CD),Read codes for the first consultation of Crohn’s disease up to 12 months after “Index date”.,ICD-10 code for Crohn’s disease using “any mentions” and OPCS-4 code for radiology and histology.
+Rheumatoid arthritis (RA),Read codes for the first consultation of rheumatoid arthritis up to 12 months after “Index date”.,ICD-10 code for rheumatoid arthritis using “any mentions” in the diagnostic category.
+,,

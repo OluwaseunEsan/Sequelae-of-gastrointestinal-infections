@@ -1,0 +1,2309 @@
+﻿Charlson comorbidity index and Read codes in CPRD,,,
+Charlson_index,Medcode,Readcode,Readterm
+1,17345,G714.11,AAA - Abdominal aortic aneurysm without mention of rupture
+1,17767,G713.00,Abdominal aortic aneurysm which has ruptured
+1,1867,G714.00,Abdominal aortic aneurysm without mention of rupture
+1,41020,66YC.00,Absent from work or school due to asthma
+6,36294,A788z00,Acquired human immunodeficiency virus infection syndrome NOS
+6,23770,A788.00,Acquired immune deficiency syndrome
+1,68277,N001.11,Acrosclerosis
+1,12229,G30X000,Acute ST segment elevation myocardial infarction
+1,12139,G300.00,Acute anterolateral infarction
+1,17872,G301100,Acute anteroseptal infarction
+1,23707,G580000,Acute congestive heart failure
+1,18027,J120.00,Acute duodenal ulcer
+1,53797,J120z00,Acute duodenal ulcer NOS
+1,53822,J120y00,Acute duodenal ulcer unspecified
+1,18001,J120100,Acute duodenal ulcer with haemorrhage
+1,48730,J120300,Acute duodenal ulcer with haemorrhage and perforation
+1,73417,J120400,Acute duodenal ulcer with obstruction
+1,18324,J120200,Acute duodenal ulcer with perforation
+1,44335,J120000,Acute duodenal ulcer without mention of complication
+2,42539,B670.00,Acute erythraemia and erythroleukaemia
+1,185,H333.00,Acute exacerbation of asthma
+1,24040,J110.00,Acute gastric ulcer
+1,44324,J110z00,Acute gastric ulcer NOS
+1,24342,J110y00,Acute gastric ulcer unspecified
+1,30054,J110100,Acute gastric ulcer with haemorrhage
+1,71403,J110300,Acute gastric ulcer with haemorrhage and perforation
+1,109546,J110400,Acute gastric ulcer with obstruction
+1,14671,J110200,Acute gastric ulcer with perforation
+1,64165,J110000,Acute gastric ulcer without mention of complication
+1,45184,J140.00,Acute gastrojejunal ulcer
+1,42274,J140z00,Acute gastrojejunal ulcer NOS
+1,96628,J140100,Acute gastrojejunal ulcer with haemorrhage
+1,106330,J140300,Acute gastrojejunal ulcer with haemorrhage and perforation
+1,102177,J140200,Acute gastrojejunal ulcer with perforation
+1,27964,G582.00,Acute heart failure
+1,8935,G302.00,Acute inferolateral infarction
+1,29643,G303.00,Acute inferoposterior infarction
+1,5255,G581000,Acute left ventricular failure
+2,4072,B680.00,Acute leukaemia NOS
+2,4251,B640.00,Acute lymphoid leukaemia
+2,19974,B660.00,Acute monocytic leukaemia
+2,28276,B675.00,Acute myelofibrosis
+2,4413,B650.00,Acute myeloid leukaemia
+2,61500,B690.00,Acute myelomonocytic leukaemia
+1,241,G30..00,Acute myocardial infarction
+1,14658,G30z.00,Acute myocardial infarction NOS
+2,67460,K001.00,Acute nephritis with lesions of necrotising glomerulitis
+1,9507,G307000,Acute non-Q wave infarction
+1,10562,G307100,Acute non-ST segment elevation myocardial infarction
+2,50858,B674.00,Acute panmyelosis
+1,32856,J130.00,Acute peptic ulcer
+1,50048,J130z00,Acute peptic ulcer NOS
+1,67711,J130y00,Acute peptic ulcer unspecified
+1,44637,J130100,Acute peptic ulcer with haemorrhage
+1,45304,J130300,Acute peptic ulcer with haemorrhage and perforation
+1,5521,J130200,Acute peptic ulcer with perforation
+1,68661,J130000,Acute peptic ulcer without mention of complication
+2,27664,B65y100,Acute promyelocytic leukaemia
+2,64482,K101000,Acute pyelonephritis without medullary necrosis
+2,46242,K041.00,Acute renal cortical necrosis
+2,25582,K04z.00,Acute renal failure NOS
+2,31369,K042.00,Acute renal medullary necrosis
+1,3704,G307.00,Acute subendocardial infarction
+1,92955,H32y000,Acute vesicular emphysema
+1,53704,J600200,Acute yellow atrophy
+1,7059,8H2J.00,Admit diabetic emergency
+1,32898,8H2S.00,Admit heart failure emergency
+2,37461,B64y200,Adult T-cell leukaemia
+2,10099,F420300,Advanced diabetic maculopathy
+1,4743,J612.00,Alcoholic cirrhosis of liver
+1,46977,H35z.00,Allergic alveolitis and pneumonitis NOS
+1,53095,H35zz00,Allergic alveolitis and pneumonitis NOS
+1,21232,H33zz12,Allergic asthma NEC
+1,18207,H33zz13,Allergic bronchitis NEC
+2,9491,B142.11,Anal carcinoma
+2,108667,B1z1000,Angiosarcoma of spleen
+1,63001,J112.00,Anti-platelet induced gastric ulcer
+1,1735,G71..00,Aortic aneurysm
+1,6872,G71z.00,Aortic aneurysm NOS
+1,1736,7A14.11,Aortic aneurysm repair
+1,16034,G716.00,Aortic aneurysm without mention of rupture NOS
+1,19477,E004.00,Arteriosclerotic dementia
+1,42279,E004z00,Arteriosclerotic dementia NOS
+1,56912,E004100,Arteriosclerotic dementia with delirium
+1,43292,E004300,Arteriosclerotic dementia with depression
+1,55467,E004200,Arteriosclerotic dementia with paranoia
+1,8303,H41..00,Asbestosis
+1,51410,H41z.00,Asbestosis NOS
+1,41017,1780,Aspirin induced asthma
+1,78,H33..00,Asthma
+1,13066,663h.00,Asthma - currently dormant
+,232,H33z100,Asthma attack
+1,8335,H33z111,Asthma attack NOS
+1,31225,663t.00,Asthma causes daytime symptoms 1 to 2 times per month
+1,24884,663u.00,Asthma causes daytime symptoms 1 to 2 times per week
+1,26503,663v.00,Asthma causes daytime symptoms most days
+1,39570,663r.00,Asthma causes night symptoms 1 to 2 times per month
+1,30815,663N000,Asthma causing night waking
+1,11370,1O2..00,Asthma confirmed
+1,42824,663q.00,Asthma daytime symptoms
+1,7416,663N.00,Asthma disturbing sleep
+1,38146,663N100,Asthma disturbs sleep weekly
+1,7191,663P.00,Asthma limiting activities
+1,38144,663w.00,Asthma limits walking up hills or stairs
+1,8355,9OJA.11,Asthma monitored
+1,26501,663s.00,Asthma never causes daytime symptoms
+1,26504,663f.00,Asthma never restricts exercise
+1,31167,66YP.00,Asthma night-time symptoms
+1,7229,663W.00,Asthma prophylactic medication used
+1,25181,663e.00,Asthma restricts exercise
+1,26506,6.63E+102,Asthma severely restricts exercise
+1,26861,6.63E+02,Asthma sometimes restricts exercise
+1,19519,663p.00,Asthma treatment compliance unsatisfactory
+1,4442,H33z.00,Asthma unspecified
+6,58859,A788100,Asymptomatic human immunodeficiency virus infection
+1,70787,H32y100,Atrophic (senile) emphysema
+1,46529,9OJ1.00,Attends asthma monitoring
+1,62200,H351.00,Bagassosis
+1,92695,7612111,Balfour excision of gastric ulcer
+1,94894,H431.00,Bauxite fibrosis of lung
+1,49194,H432.00,Berylliosis
+1,9494,J616.00,Biliary cirrhosis
+1,58630,J616z00,Biliary cirrhosis NOS
+1,27345,H352.00,Bird-fancier's lung
+1,36240,H352z00,Bird-fancier's lung NOS
+1,11124,J110111,Bleeding acute gastric ulcer
+1,18625,J121111,Bleeding chronic duodenal ulcer
+1,36583,J111111,Bleeding chronic gastric ulcer
+1,40823,H334.00,Brittle asthma
+1,1555,H33..11,Bronchial asthma
+1,2195,H34..00,Bronchiectasis
+1,32679,H34z.00,Bronchiectasis NOS
+1,3480,H30z.00,Bronchitis NOS
+1,38639,H460.00,Bronchitis and pneumonitis due to chemical fumes
+1,55758,H460z00,Bronchitis and pneumonitis due to chemical fumes NOS
+1,148,H30..00,Bronchitis unspecified
+1,54822,H352000,Budgerigar-fanciers' lung
+2,21402,B602.00,Burkitt's lymphoma
+2,71304,B602z00,Burkitt's lymphoma NOS
+2,97577,B602300,Burkitt's lymphoma of intra-abdominal lymph nodes
+2,100006,B602200,Burkitt's lymphoma of intrathoracic lymph nodes
+2,59115,B602100,"Burkitt's lymphoma of lymph nodes of head, face and neck"
+2,92380,B602500,Burkitt's lymphoma of lymph nodes of inguinal region and leg
+1,37365,H440.00,Byssinosis
+1,3540,1761,C/O bronchial catarrh
+1,6960,G61..11,CVA - cerebrovascular accid due to intracerebral haemorrhage
+2,348,B34..11,Ca female breast
+2,11628,B1z0.11,Cancer of bowel
+2,1986,B440.11,Cancer of ovary
+2,2755,B....11,Cancers
+1,26442,H441.00,Cannabinosis
+1,56838,N04y011,Caplan's syndrome
+2,36495,B161211,Carcinoma common bile duct
+2,31393,B160.11,Carcinoma gallbladder
+2,9902,B3...11,"Carcinoma of bone, connective tissue, skin and breast"
+2,22163,B134.11,Carcinoma of caecum
+2,3357,B1...11,Carcinoma of digestive organs and peritoneum
+2,16874,B4...11,Carcinoma of genitourinary organ
+2,9984,B00..11,Carcinoma of lip
+2,24374,B0...11,"Carcinoma of lip, oral cavity and pharynx"
+2,8693,B5...11,Carcinoma of other and unspecified sites
+2,7219,B141.11,Carcinoma of rectum
+2,45307,B2...11,Carcinoma of respiratory tract and intrathoracic organs
+6,6170,B590.11,Carcinomatosis
+1,1223,G58..11,Cardiac failure
+1,17278,G58z.12,Cardiac failure NOS
+1,24503,8B29.00,Cardiac failure therapy
+1,27438,J615700,Cardiac portal cirrhosis
+1,30421,G30..13,Cardiac rupture following myocardial infarction (MI)
+1,10980,H322.00,Centrilobular emphysema
+1,13564,G613.00,Cerebellar haemorrhage
+1,54744,F11x200,Cerebral degeneration due to cerebrovascular disease
+1,27975,G641000,Cerebral infarction due to embolism of cerebral arteries
+6,5199,B583200,Cerebral metastasis
+2,10851,B51..11,Cerebral tumour - malignant
+1,2418,G6...00,Cerebrovascular disease
+1,10062,G6z..00,Cerebrovascular disease NOS
+2,3230,B41..11,Cervical carcinoma (uterus)
+1,17359,H30..11,Chest infection - unspecified bronchitis
+1,1208,H330.12,Childhood asthma
+2,52327,B653000,Chloroma
+2,5062,B30..11,Chondroma
+2,28003,B420.00,Choriocarcinoma
+2,56893,K0A3300,Chron neph syn difus mesangial prolifrtiv glomerulonephritis
+2,57168,K0A3200,Chron nephritic syndrom difuse membranous glomerulonephritis
+1,9029,J614100,Chronic active hepatitis
+1,1755,J614200,Chronic aggressive hepatitis
+1,7602,J617000,Chronic alcoholic hepatitis
+1,5798,H312000,Chronic asthmatic bronchitis
+1,3243,H31..00,Chronic bronchitis
+1,15157,H31z.00,Chronic bronchitis NOS
+1,26306,H320.00,Chronic bullous emphysema
+1,23492,H320z00,Chronic bullous emphysema NOS
+1,15626,H310000,Chronic catarrhal bronchitis
+1,32671,G580100,Chronic congestive heart failure
+2,65400,K02y300,Chronic diffuse glomerulonephritis
+1,9853,J121.00,Chronic duodenal ulcer
+1,51406,J121z00,Chronic duodenal ulcer NOS
+1,52138,J121y00,Chronic duodenal ulcer unspecified
+1,71881,J121300,Chronic duodenal ulcer with haemorrhage and perforation
+1,44073,J121400,Chronic duodenal ulcer with obstruction
+1,33438,J121000,Chronic duodenal ulcer without mention of complication
+1,64721,H464000,Chronic emphysema due to chemical fumes
+2,100786,B651000,Chronic eosinophilic leukaemia
+2,37468,B671.00,Chronic erythraemia
+2,4669,K02y200,Chronic focal glomerulonephritis
+1,18654,J111.00,Chronic gastric ulcer
+1,44309,J111z00,Chronic gastric ulcer NOS
+1,64556,J111y00,Chronic gastric ulcer unspecified
+1,63582,J111100,Chronic gastric ulcer with haemorrhage
+1,71897,J111300,Chronic gastric ulcer with haemorrhage and perforation
+1,67356,J111400,Chronic gastric ulcer with obstruction
+1,53336,J111200,Chronic gastric ulcer with perforation
+1,48946,J111000,Chronic gastric ulcer without mention of complication
+1,96090,J141.00,Chronic gastrojejunal ulcer
+1,110244,J141300,Chronic gastrojejunal ulcer with haemorrhage and perforation
+2,7804,K02..00,Chronic glomerulonephritis
+2,97758,K02y000,Chronic glomerulonephritis + diseases EC
+2,15097,K02z.00,Chronic glomerulonephritis NOS
+2,31701,B651.11,Chronic granulocytic leukaemia
+1,1754,J614.00,Chronic hepatitis
+1,15489,J614z00,Chronic hepatitis NOS
+1,53877,J614y00,Chronic hepatitis unspecified
+2,29013,1Z10.00,Chronic kidney disease stage 1
+2,12586,1Z11.00,Chronic kidney disease stage 2
+2,12566,1Z12.00,Chronic kidney disease stage 3
+2,12479,1Z13.00,Chronic kidney disease stage 4
+2,12585,1Z14.00,Chronic kidney disease stage 5
+2,16416,B681.00,Chronic leukaemia NOS
+2,27790,B641.11,Chronic lymphatic leukaemia
+2,8625,B641.00,Chronic lymphoid leukaemia
+2,61494,K022.00,Chronic membranoproliferative glomerulonephritis
+2,10809,K021.00,Chronic membranous glomerulonephritis
+2,27458,B661.00,Chronic monocytic leukaemia
+2,10726,B651.00,Chronic myeloid leukaemia
+2,27520,B651z00,Chronic myeloid leukaemia NOS
+2,22050,B691.00,Chronic myelomonocytic leukaemia
+2,73026,K0A3500,Chronic neph syn difus mesangiocapillary glomerulonephritis
+2,60857,K0A3700,Chronic nephritic syn diffuse crescentic glomerulonephritis
+2,102783,B651200,Chronic neutrophilic leukaemia
+1,37247,H3z..11,Chronic obstructive pulmonary disease NOS
+1,40997,J131.00,Chronic peptic ulcer
+1,69663,J131z00,Chronic peptic ulcer NOS
+1,70390,J131y00,Chronic peptic ulcer unspecified
+1,53126,J131100,Chronic peptic ulcer with haemorrhage
+1,52313,J131400,Chronic peptic ulcer with obstruction
+1,37620,J131200,Chronic peptic ulcer with perforation
+1,99430,J131000,Chronic peptic ulcer without mention of complication
+1,23578,J614000,Chronic persistent hepatitis
+1,47782,H464200,Chronic pulmonary fibrosis due to chemical fumes
+1,22536,H4y1000,Chronic pulmonary fibrosis following radiation
+2,57568,K100100,Chronic pyelonephritis with medullary necrosis
+2,99631,K100000,Chronic pyelonephritis without medullary necrosis
+2,65064,K023.00,Chronic rapidly progressive glomerulonephritis
+2,512,K05..00,Chronic renal failure
+1,45089,H31y100,Chronic tracheobronchitis
+1,5909,H312011,Chronic wheezy bronchitis
+1,16725,J615.00,Cirrhosis - non alcoholic
+1,6863,J61..00,Cirrhosis and chronic liver disease
+1,1638,J615z13,Cirrhosis of liver NOS
+1,6853,G73z011,Claudication
+1,38304,S620.00,Closed traumatic subarachnoid haemorrhage
+1,64014,761J100,Closure of gastric ulcer NEC
+1,4741,7627000,Closure of perforated duodenal ulcer
+1,20677,761J000,Closure of perforated gastric ulcer
+1,19492,H40..00,Coal workers' pneumoconiosis
+2,9118,B13z.11,Colonic cancer
+1,11424,G580300,Compensated cardiac failure
+1,54893,H582.00,Compensatory emphysema
+2,37160,F230000,Congenital paraplegia
+1,2906,G580.11,Congestive cardiac failure
+1,5141,G554000,Congestive cardiomyopathy
+1,398,G580.00,Congestive heart failure
+1,2491,G30..12,Coronary thrombosis
+1,18739,J615z12,Cryptogenic cirrhosis of liver
+1,27884,G580200,Decompensated cardiac failure
+1,25386,E041.00,Dementia in conditions EC
+2,24375,B339.00,Dermatofibrosarcoma protuberans
+1,47684,H47y000,Detergent asthma
+2,27340,B670.11,Di Guglielmo's disease
+1,711,C10..00,Diabetes mellitus
+1,72345,C102z00,Diabetes mellitus NOS with hyperosmolar coma
+1,42505,C101z00,Diabetes mellitus NOS with ketoacidosis
+1,65062,C103z00,Diabetes mellitus NOS with ketoacidotic coma
+2,22573,C106z00,Diabetes mellitus NOS with neurological manifestation
+1,50972,C100z00,Diabetes mellitus NOS with no mention of complication
+2,34283,C105z00,Diabetes mellitus NOS with ophthalmic manifestation
+1,70821,C10yz00,Diabetes mellitus NOS with other specified manifestation
+1,65025,C107z00,Diabetes mellitus NOS with peripheral circulatory disorder
+1,64357,C10zz00,Diabetes mellitus NOS with unspecified complication
+1,36695,C10D.00,Diabetes mellitus autosomal dominant type 2
+1,61122,C10H.00,Diabetes mellitus induced by non-steroid drugs
+1,32403,C107.11,Diabetes mellitus with gangrene
+1,21482,C102.00,Diabetes mellitus with hyperosmolar coma
+1,1682,C101.00,Diabetes mellitus with ketoacidosis
+1,15690,C103.00,Diabetes mellitus with ketoacidotic coma
+2,35107,C104z00,Diabetes mellitus with nephropathy NOS
+2,16230,C106.00,Diabetes mellitus with neurological manifestation
+2,7795,C106.12,Diabetes mellitus with neuropathy
+1,38986,C100.00,Diabetes mellitus with no mention of complication
+2,33254,C105.00,Diabetes mellitus with ophthalmic manifestation
+1,33343,C10y.00,Diabetes mellitus with other specified manifestation
+1,35399,C107.00,Diabetes mellitus with peripheral circulatory disorder
+2,16491,C106.13,Diabetes mellitus with polyneuropathy
+1,45491,C10z.00,Diabetes mellitus with unspecified complication
+2,39317,C106100,"Diabetes mellitus, adult onset, + neurological manifestation"
+2,41389,C105100,"Diabetes mellitus, adult onset, + ophthalmic manifestation"
+1,63762,C10z100,"Diabetes mellitus, adult onset, + unspecified complication"
+1,14803,C100100,"Diabetes mellitus, adult onset, no mention of complication"
+1,43139,C102100,"Diabetes mellitus, adult onset, with hyperosmolar coma"
+1,54856,C101100,"Diabetes mellitus, adult onset, with ketoacidosis"
+1,33807,C107200,"Diabetes mellitus, adult with gangrene"
+1,63371,C10y100,"Diabetes mellitus, adult, + other specified manifestation"
+1,63357,C107100,"Diabetes mellitus, adult, + peripheral circulatory disorder"
+1,70448,C107000,"Diabetes mellitus, juvenile +peripheral circulatory disorder"
+2,69748,C105000,"Diabetes mellitus, juvenile type, + ophthalmic manifestation"
+1,24490,C100000,"Diabetes mellitus, juvenile type, no mention of complication"
+1,40023,C102000,"Diabetes mellitus, juvenile type, with hyperosmolar coma"
+1,53200,C101000,"Diabetes mellitus, juvenile type, with ketoacidosis"
+1,42567,C103000,"Diabetes mellitus, juvenile type, with ketoacidotic coma"
+2,93922,C104000,"Diabetes mellitus, juvenile type, with renal manifestation"
+1,32556,C107.12,Diabetes with gangrene
+1,43951,66AK.00,Diabetic - cooperative patient
+1,13071,66AI.00,Diabetic - good control
+1,2378,66AJ.00,Diabetic - poor control
+1,22023,66AJz00,Diabetic - poor control NOS
+2,59903,C106.11,Diabetic amyotrophy
+2,2340,F381311,Diabetic amyotrophy
+1,6125,66AS.00,Diabetic annual review
+2,10659,F464000,Diabetic cataract
+2,3837,F420400,Diabetic maculopathy
+2,37315,F3y0.00,Diabetic mononeuropathy
+2,2475,C104.11,Diabetic nephropathy
+2,2342,F372.12,Diabetic neuropathy
+1,8842,66A5.00,Diabetic on insulin
+1,28769,66AV.00,Diabetic on insulin and oral treatment
+1,34152,G73y000,Diabetic peripheral angiopathy
+2,5002,F372.11,Diabetic polyneuropathy
+2,1323,F420.00,Diabetic retinopathy
+2,11626,F420z00,Diabetic retinopathy NOS
+1,24363,8A13.00,Diabetic stabilisation
+1,3450,J615300,Diffuse nodular cirrhosis
+2,50695,B627500,Diffuse non-Hodgkin mixed sml & lge cell (diffuse) lymphoma
+2,70509,B627D00,Diffuse non-Hodgkin's centroblastic lymphoma
+2,53551,B627600,Diffuse non-Hodgkin's immunoblastic (diffuse) lymphoma
+2,17460,B627700,Diffuse non-Hodgkin's lymphoblastic (diffuse) lymphoma
+2,65180,B627800,Diffuse non-Hodgkin's lymphoma undifferentiated (diffuse)
+2,39798,B627X00,"Diffuse non-Hodgkin's lymphoma, unspecified"
+2,50668,B627300,Diffuse non-Hodgkin's small cell (diffuse) lymphoma
+2,108182,B627400,Diffuse non-Hodgkin's small cleaved cell (diffuse) lymphoma
+1,16521,G710.00,Dissecting aortic aneurysm
+1,20007,N000000,Disseminated lupus erythematosus
+6,13569,B590.00,Disseminated malignancy NOS
+1,36942,N000200,Drug-induced systemic lupus erythematosus
+1,3462,J123.00,Duodenal erosion
+1,352,J12..00,Duodenal ulcer - (DU)
+1,15175,J12z.00,Duodenal ulcer NOS
+1,22918,J122.00,Duodenal ulcer disease
+1,7058,8H2P.00,"Emergency admission, asthma"
+1,17220,7A13.11,Emergency repair of aortic aneurysm
+1,794,H32..00,Emphysema
+1,33450,H32z.00,Emphysema NOS
+1,14798,H312100,Emphysematous bronchitis
+2,6712,K050.00,End stage renal failure
+1,96456,N060.11,Endemic polyarthritis
+1,63718,761D600,Endoscopic injection haemostasis of gastric ulcer
+2,5034,B33..12,Epithelioma
+1,7017,7004300,Evacuation of intracerebral haematoma NEC
+1,5867,173A.00,Exercise induced asthma
+1,4606,H33zz11,Exercise induced asthma
+1,7146,H330.00,Extrinsic (atopic) asthma
+1,11312,H35..00,Extrinsic allergic alveolitis
+1,45782,H330z00,Extrinsic asthma NOS
+1,6707,H330111,Extrinsic asthma with asthma attack
+1,14777,H330000,Extrinsic asthma without status asthmaticus
+1,15588,H350.00,Farmers' lung
+1,44676,J615400,Fatty portal cirrhosis
+1,23552,N041.00,Felty's syndrome
+1,37959,H311100,Fetid chronic bronchitis
+2,72224,B1z1100,Fibrosarcoma of spleen
+1,28853,N04y012,Fibrosing alveolitis associated with rheumatoid arthritis
+2,39085,F220.00,Flaccid hemiplegia
+2,46175,F241000,Flaccid paraplegia
+1,8350,N040T00,Flare of rheumatoid arthritis
+1,68376,J612.11,Florid cirrhosis
+2,67995,K032000,Focal membranoproliferative glomerulonephritis
+2,17182,B627C11,Follicular lymphoma NOS
+2,70842,B627100,Follicular non-Hodg mixed sml cleavd & lge cell lymphoma
+2,49262,B627200,Follicular non-Hodgkin's large cell lymphoma
+2,21549,B627C00,Follicular non-Hodgkin's lymphoma
+2,28639,B627000,Follicular non-Hodgkin's small cleaved cell lymphoma
+1,39949,G732200,Gangrene of finger
+1,12735,G732100,Gangrene of foot
+1,23672,G732400,Gangrene of hand
+1,51057,G732300,Gangrene of thumb
+1,5414,G732000,Gangrene of toe
+2,10368,B11..11,Gastric neoplasm
+1,1262,J11..00,Gastric ulcer - (GU)
+1,29771,J11z.00,Gastric ulcer NOS
+1,64913,J14..12,Gastrocolic ulcer
+1,23082,J14..00,Gastrojejunal ulcer (GJU)
+1,15403,J14z.00,Gastrojejunal ulcer NOS
+1,12555,G671z00,Generalised ischaemic cerebrovascular disease NOS
+1,40053,G671.00,Generalised ischaemic cerebrovascular disease NOS
+1,60188,H320200,Giant bullous emphysema
+1,29472,N200.00,Giant cell arteritis with polymyalgia rheumatica
+1,19512,C310400,Glycogenosis with hepatic cirrhosis
+2,39629,B653100,Granulocytic sarcoma
+1,46912,14AM.00,H/O: Heart failure in last year
+1,50372,14AH.00,H/O: Myocardial infarction in last year
+1,59534,14NB.00,H/O: Peripheral vascular disease procedure
+1,16993,14AE.00,H/O: aortic aneurysm
+1,719,14B4.00,H/O: asthma
+1,41577,1477,H/O: cerebrovascular disease
+1,5931,1461,H/O: dementia
+1,6813,1434,H/O: diabetes mellitus
+1,15058,14A6.00,H/O: heart failure
+2,8828,14D1.00,H/O: nephritis
+6,51708,A789X00,"HIV dis reslt/oth mal neopl/lymph,h'matopoetc+reltd tissu"
+6,47632,A788U00,"HIV disease result/haematological+immunologic abnorms,NEC"
+6,44617,A789600,HIV disease resulting in Burkitt's lymphoma
+6,27853,A789500,HIV disease resulting in Kaposi's sarcoma
+6,27641,A789300,HIV disease resulting in Pneumocystis carinii pneumonia
+6,23951,A789200,HIV disease resulting in candidiasis
+6,66368,A789100,HIV disease resulting in cytomegaloviral disease
+6,65117,A789900,HIV disease resulting in lymphoid interstitial pneumonitis
+6,50076,A789400,HIV disease resulting in multiple infections
+6,105324,A789800,HIV disease resulting in multiple malignant neoplasms
+6,37006,A789000,HIV disease resulting in mycobacterial infection
+6,67575,A788W00,HIV disease resulting in unspecified malignant neoplasm
+6,8281,A789A00,HIV disease resulting in wasting syndrome
+6,71450,A788X00,HIV disease resulting/unspcf infectious+parasitic disease
+6,69766,A788200,HIV infection with persistent generalised lymphadenopathy
+1,29353,N240700,Hand rheumatism
+1,5627,H330011,Hay fever with asthma
+1,15248,H330.13,Hay fever with asthma
+1,16408,G32..11,Healed myocardial infarction
+1,1204,G30..14,Heart attack
+1,2062,G58..00,Heart failure
+1,4024,G58z.00,Heart failure NOS
+1,30779,662W.00,Heart failure annual review
+1,66306,SP11111,Heart failure as a complication of care
+1,32945,8CL3.00,Heart failure care plan discussed with patient
+1,9913,1O1..00,Heart failure confirmed
+2,63653,B671.11,Heilmeyer - Schoner disease
+2,1749,F22..00,Hemiplegia
+2,8492,F22z.00,Hemiplegia NOS
+3,23511,J622.00,Hepatic coma
+1,899,J633.00,Hepatitis unspecified
+2,31210,B150100,Hepatoblastoma of liver
+2,22187,B150300,Hepatocellular carcinoma
+3,10636,J624.00,Hepatorenal syndrome
+2,3514,F141.00,Hereditary spastic paraplegia
+2,65463,F420800,High risk non proliferative diabetic retinopathy
+2,30477,F420700,High risk proliferative diabetic retinopathy
+2,108715,B66..11,Histiocytic leukaemia
+2,4870,B625.11,"Histiocytosis X (acute, progressive)"
+2,2462,B61..00,Hodgkin's disease
+2,42461,B61zz00,Hodgkin's disease NOS
+2,53397,B61z.00,Hodgkin's disease NOS
+2,107804,B61z300,Hodgkin's disease NOS of intra-abdominal lymph nodes
+2,59755,B61z200,Hodgkin's disease NOS of intrathoracic lymph nodes
+2,99012,B61z500,Hodgkin's disease NOS of lymph nodes inguinal region and leg
+2,91900,B61z400,Hodgkin's disease NOS of lymph nodes of axilla and arm
+2,59778,B61z100,"Hodgkin's disease NOS of lymph nodes of head, face and neck"
+2,97746,B61z800,Hodgkin's disease NOS of lymph nodes of multiple sites
+2,94279,B61z700,Hodgkin's disease NOS of spleen
+2,61662,B61z000,"Hodgkin's disease NOS, unspecified site"
+2,67703,B616.00,"Hodgkin's disease, lymphocytic depletion"
+2,101530,B616z00,"Hodgkin's disease, lymphocytic depletion NOS"
+2,101715,B616700,"Hodgkin's disease, lymphocytic depletion of spleen"
+2,38939,B613.00,"Hodgkin's disease, lymphocytic-histiocytic predominance"
+2,49605,B615.00,"Hodgkin's disease, mixed cellularity"
+2,94005,B615z00,"Hodgkin's disease, mixed cellularity NOS"
+2,97863,B615000,"Hodgkin's disease, mixed cellularity of unspecified site"
+2,29178,B614.00,"Hodgkin's disease, nodular sclerosis"
+2,63054,B614z00,"Hodgkin's disease, nodular sclerosis NOS"
+2,105472,B614700,"Hodgkin's disease, nodular sclerosis of spleen"
+2,57225,B614000,"Hodgkin's disease, nodular sclerosis of unspecified site"
+2,44196,B611.00,Hodgkin's granuloma
+2,98909,B611100,"Hodgkin's granuloma of lymph nodes of head, face and neck"
+2,63625,B616400,Hodgkin's lymphocytic depletion lymph nodes axilla and arm
+2,110563,B616500,Hodgkin's lymphocytic depletion lymph nodes inguinal and leg
+2,107032,B616800,Hodgkin's lymphocytic depletion lymph nodes multiple sites
+2,95049,B616000,Hodgkin's lymphocytic depletion of unspecified site
+2,58684,B615200,Hodgkin's mixed cellularity of intrathoracic lymph nodes
+2,94407,B615100,"Hodgkin's mixed cellularity of lymph nodes head, face, neck"
+2,108886,B615500,Hodgkin's mixed cellularity of lymph nodes inguinal and leg
+2,55303,B614100,"Hodgkin's nodular sclerosis of head, face and neck"
+2,61149,B614300,Hodgkin's nodular sclerosis of intra-abdominal lymph nodes
+2,67506,B614200,Hodgkin's nodular sclerosis of intrathoracic lymph nodes
+2,65483,B614400,Hodgkin's nodular sclerosis of lymph nodes of axilla and arm
+2,19140,B614800,Hodgkin's nodular sclerosis of lymph nodes of multiple sites
+2,65489,B610.00,Hodgkin's paragranuloma
+2,98840,B610300,Hodgkin's paragranuloma of intra-abdominal lymph nodes
+2,100423,B610100,"Hodgkin's paragranuloma of lymph nodes of head, face, neck"
+2,64036,B612.00,Hodgkin's sarcoma
+2,68039,B612400,Hodgkin's sarcoma of lymph nodes of axilla and upper limb
+2,93951,B613500,"Hodgkin's, lymphocytic-histiocytic pred inguinal and leg"
+2,73532,B613300,"Hodgkin's, lymphocytic-histiocytic pred intra-abdominal node"
+2,95338,B613600,"Hodgkin's, lymphocytic-histiocytic pred intrapelvic nodes"
+2,92245,B613200,"Hodgkin's, lymphocytic-histiocytic pred intrathoracic nodes"
+2,68330,B613100,"Hodgkin's, lymphocytic-histiocytic pred of head, face, neck"
+2,104743,B613800,"Hodgkin's, lymphocytic-histiocytic pred of multiple sites"
+2,29876,B613z00,"Hodgkin's, lymphocytic-histiocytic predominance NOS"
+2,106911,B613700,"Hodgkin's, lymphocytic-histiocytic predominance of spleen"
+2,71142,B613000,"Hodgkin's, lymphocytic-histiocytic predominance unspec site"
+6,44303,A789.00,Human immunodef virus resulting in other disease
+6,70869,A788300,Human immunodeficiency virus with constitutional disease
+6,53636,A788400,Human immunodeficiency virus with neurological disease
+6,62891,A788y00,Human immunodeficiency virus with other clinical findings
+6,101836,A788600,Human immunodeficiency virus with secondary cancers
+6,70528,A788500,Human immunodeficiency virus with secondary infection
+2,7978,B4A0000,Hypernephroma
+1,36633,C109K00,Hyperosmolar non-ketotic state in type 2 diabetes mellitus
+1,11833,H35z100,Hypersensitivity pneumonitis NOS
+1,21837,G232.00,Hypertensive heart&renal dis wth (congestive) heart failure
+2,56939,K08y000,Hypokalaemic nephropathy
+1,69124,C107300,IDDM with peripheral circulatory disorder
+1,18505,C108.11,IDDM-Insulin dependent diabetes mellitus
+2,70716,B62zz11,Immunoproliferative neoplasm
+2,43450,B63z.00,Immunoproliferative neoplasm or myeloma NOS
+2,6842,K060.11,Impaired renal function
+2,25980,K08z.00,Impaired renal function disorder NOS
+1,28109,G714100,Inflammatory abdominal aortic aneurysm
+1,64446,C108G00,Insulin dependent diab mell with peripheral angiopathy
+1,1038,C100011,Insulin dependent diabetes mellitus
+1,51261,C10E.12,Insulin dependent diabetes mellitus
+1,1647,C108.00,Insulin dependent diabetes mellitus
+1,6791,C108800,Insulin dependent diabetes mellitus - poor control
+1,72702,C10E812,Insulin dependent diabetes mellitus - poor control
+2,65616,C108H00,Insulin dependent diabetes mellitus with arthropathy
+2,44260,C108F00,Insulin dependent diabetes mellitus with diabetic cataract
+1,60499,C108600,Insulin dependent diabetes mellitus with gangrene
+1,44440,C108E00,Insulin dependent diabetes mellitus with hypoglycaemic coma
+2,24694,C108B00,Insulin dependent diabetes mellitus with mononeuropathy
+2,57621,C108D00,Insulin dependent diabetes mellitus with nephropathy
+2,41716,C108C00,Insulin dependent diabetes mellitus with polyneuropathy
+2,6509,C108700,Insulin dependent diabetes mellitus with retinopathy
+1,44443,C108500,Insulin dependent diabetes mellitus with ulcer
+1,1407,C10FJ00,Insulin treated Type 2 diabetes mellitus
+1,18278,C109J00,Insulin treated Type 2 diabetes mellitus
+1,64668,C10FJ11,Insulin treated Type II diabetes mellitus
+1,18264,C109J12,Insulin treated Type II diabetes mellitus
+1,37648,C109J11,Insulin treated non-insulin dependent diabetes mellitus
+2,52283,C108200,Insulin-dependent diabetes mellitus with neurological comps
+2,49276,C108100,Insulin-dependent diabetes mellitus with ophthalmic comps
+2,46963,C108000,Insulin-dependent diabetes mellitus with renal complications
+1,1517,G73z000,Intermittent claudication
+1,22905,H581.00,Interstitial emphysema
+1,5051,G61..00,Intracerebral haemorrhage
+1,3535,G61z.00,Intracerebral haemorrhage NOS
+1,31060,G61X.00,"Intracerebral haemorrhage in hemisphere, unspecified"
+1,30202,G617.00,"Intracerebral haemorrhage, intraventricular"
+1,57315,G618.00,"Intracerebral haemorrhage, multiple localized"
+1,20284,G62z.00,Intracranial haemorrhage NOS
+1,5267,H331.00,Intrinsic asthma
+1,45073,H331z00,Intrinsic asthma NOS
+1,18323,H331111,Intrinsic asthma with asthma attack
+1,58196,H331100,Intrinsic asthma with status asthmaticus
+1,29325,H331000,Intrinsic asthma without status asthmaticus
+1,45521,G714000,Juxtarenal aortic aneurysm
+2,43552,B630.11,Kahler's disease
+2,50290,B6z0.00,Kaposi's sarcoma of lymph nodes
+6,65466,B592X00,Kaposi's sarcoma of multiple organs
+2,37549,B05z000,Kaposi's sarcoma of palate
+2,27931,B33z000,Kaposi's sarcoma of skin
+2,104128,B31z000,Kaposi's sarcoma of soft tissue
+2,49525,B59zX00,"Kaposi's sarcoma, unspecified"
+2,45499,K01x111,Kimmelstiel - Wilson disease
+2,46042,B630300,Lambda light chain myeloma
+1,23361,G68..00,Late effects of cerebrovascular disease
+1,3665,H331.11,Late onset asthma
+1,12987,H33z200,Late-onset asthma
+1,14898,G305.00,Lateral myocardial infarction NOS
+1,9759,G718.00,Leaking abdominal aortic aneurysm
+2,8933,F222.00,Left hemiplegia
+1,28314,G61X000,"Left sided intracerebral haemorrhage, unspecified"
+1,884,G581.00,Left ventricular failure
+2,34926,B625.00,Letterer-Siwe disease
+2,47204,B625z00,Letterer-Siwe disease NOS
+2,102158,B625200,Letterer-Siwe disease of intrathoracic lymph nodes
+2,54083,B625800,Letterer-Siwe disease of lymph nodes of multiple sites
+2,102715,B625000,Letterer-Siwe disease of unspecified sites
+2,4250,B68z.00,Leukaemia NOS
+2,25191,B68..00,Leukaemia of unspecified cell type
+2,65123,B624300,Leukaemic reticuloend of intra-abdominal lymph nodes
+2,27330,B624.00,Leukaemic reticuloendotheliosis
+2,5137,B624.11,Leukaemic reticuloendotheliosis
+2,73777,B624z00,Leukaemic reticuloendotheliosis NOS
+2,65122,B624000,Leukaemic reticuloendotheliosis of unspecified sites
+1,57675,N000100,Libman-Sacks disease
+1,43857,C10M.00,Lipoatrophic diabetes mellitus
+3,108800,J62z.00,Liver abscess and chronic liver disease causing sequelae NOS
+6,4403,B577.11,Liver metastases
+2,2587,B22z.11,Lung cancer
+1,34001,H4z..00,Lung disease due to external agents NOS
+1,58791,H57y.00,Lung disease with diseases EC
+1,63912,H57yz00,Lung disease with diseases EC NOS
+1,42940,H57y100,Lung disease with polymyositis
+1,31564,H57y400,Lung disease with systemic lupus erythematosus
+1,94996,H572.00,Lung disease with systemic sclerosis
+1,22205,K01x411,Lupus nephritis
+6,7830,B56..11,Lymph node metastases
+2,4222,B64..11,Lymphatic leukaemia
+2,57737,B62x100,Lymphoepithelioid lymphoma
+2,95792,B62zz00,Lymphoid and histiocytic malignancy NOS
+2,19372,B64..00,Lymphoid leukaemia
+2,38914,B64z.00,Lymphoid leukaemia NOS
+2,27416,B601.00,Lymphosarcoma
+2,63723,B601z00,Lymphosarcoma NOS
+2,41369,B60..00,Lymphosarcoma and reticulosarcoma
+2,72197,B67y000,Lymphosarcoma cell leukaemia
+2,64670,B601300,Lymphosarcoma of intra-abdominal lymph nodes
+2,62380,B601200,Lymphosarcoma of intrathoracic lymph nodes
+2,71238,B601100,"Lymphosarcoma of lymph nodes of head, face and neck"
+2,100352,B601500,Lymphosarcoma of lymph nodes of inguinal region and leg
+2,104790,B601800,Lymphosarcoma of lymph nodes of multiple sites
+2,103245,B601700,Lymphosarcoma of spleen
+2,71625,B601000,Lymphosarcoma of unspecified site
+1,1677,G30..15,MI - acute myocardial infarction
+1,63479,H32y200,MacLeod's unilateral emphysema
+1,22841,J615z11,Macronodular cirrhosis of liver
+2,106654,B524W00,"Mal neoplasm/periph nerves+autonomic nervous system,unspc"
+2,39531,B25..00,"Malig neo, overlapping lesion of heart, mediastinum & pleura"
+2,24456,B201.00,"Malig neop auditory tube, middle ear and mastoid air cells"
+2,73537,B201z00,"Malig neop auditory tube, middle ear, mastoid air cells NOS"
+2,73718,B310z00,"Malig neop connective and soft tissue head, face, neck NOS"
+2,90546,B312z00,Malig neop connective and soft tissue hip and leg NOS
+2,54965,B312200,Malig neop connective and soft tissue of popliteal space
+2,65233,B31y.00,Malig neop connective and soft tissue other specified site
+2,53989,B311.00,Malig neop connective and soft tissue upper limb/shoulder
+2,104913,B311z00,Malig neop connective soft tissue upper limb/shoulder NOS
+2,98813,B500.00,"Malig neop eyeball excl conjunctiva, cornea, retina, choroid"
+2,26652,B20..00,"Malig neop nasal cavities, middle ear and accessory sinuses"
+2,18608,B3...00,"Malig neop of bone, connective tissue, skin and breast"
+2,41011,B3z..00,"Malig neop of bone, connective tissue, skin and breast NOS"
+2,19389,B3y..00,"Malig neop of bone, connective tissue, skin and breast OS"
+2,43475,B310.00,"Malig neop of connective and soft tissue head, face and neck"
+2,60247,B314z00,Malig neop of connective and soft tissue of abdomen NOS
+2,66488,B314000,Malig neop of connective and soft tissue of abdominal wall
+2,66088,B312.00,Malig neop of connective and soft tissue of hip and leg
+2,67324,B315100,Malig neop of connective and soft tissue of inguinal region
+2,30542,B312300,Malig neop of connective and soft tissue of lower leg
+2,58836,B315z00,Malig neop of connective and soft tissue of pelvis NOS
+2,98408,B313z00,Malig neop of connective and soft tissue of thorax NOS
+2,44805,B312100,Malig neop of connective and soft tissue thigh and upper leg
+2,57471,B316.00,Malig neop of connective and soft tissue trunk unspecified
+2,64195,B54z.00,Malig neop of endocrine gland or related structure NOS
+2,13559,B4A..00,Malig neop of kidney and other unspecified urinary organs
+2,4555,B45..00,Malig neop of other and unspecified female genital organs
+2,65458,B52..00,Malig neop of other and unspecified parts of nervous system
+2,30511,B54..00,Malig neop of other endocrine glands and related structures
+2,100232,B24y.00,"Malig neop of other site of heart, thymus and mediastinum"
+2,34075,B2...00,Malig neop of respiratory tract and intrathoracic organs
+2,65880,B304z00,Malig neop of scapula and long bones of upper arm NOS
+2,65793,B2z0.00,"Malig neop of upper respiratory tract, part unspecified"
+2,11009,B1z..00,Malig neop oth/ill-defined sites digestive tract/peritoneum
+2,96971,B20y.00,"Malig neop other site nasal cavity, middle ear and sinuses"
+2,55659,B14y.00,"Malig neop other site rectum, rectosigmoid junction and anus"
+2,46114,B0z..00,"Malig neop other/ill-defined sites lip, oral cavity, pharynx"
+2,44356,B2z..00,Malig neop other/ill-defined sites resp/intrathoracic organs
+2,59718,B542z00,Malig neop pituitary gland or craniopharyngeal duct NOS
+2,62399,B332z00,Malig neop skin of ear and external auricular canal NOS
+2,110192,B315300,Malig neopl of connective and soft tissue - sacrum or coccyx
+2,24235,B524.00,Malig neopl peripheral nerves and autonomic nervous system
+2,53504,B52W.00,"Malig neopl, overlap lesion brain & other part of CNS"
+2,94272,B314100,Malig neoplasm of connective and soft tissues of lumb spine
+2,104139,B313300,Malig neoplasm of connective and soft tissues of thor spine
+6,8154,B576200,Malignant ascites
+2,44267,B623.00,Malignant histiocytosis
+2,58871,B623z00,Malignant histiocytosis NOS
+2,65642,B623300,Malignant histiocytosis of intra-abdominal lymph nodes
+2,94415,B623100,"Malignant histiocytosis of lymph nodes head, face and neck"
+2,110903,B623800,Malignant histiocytosis of lymph nodes of multiple sites
+2,69497,B623000,Malignant histiocytosis of unspecified site
+2,58962,B62x500,Malignant immunoproliferative small intestinal disease
+2,15027,B62yz00,Malignant lymphoma NOS
+2,12335,B62y.00,Malignant lymphoma NOS
+2,42579,B62y300,Malignant lymphoma NOS of intra-abdominal lymph nodes
+2,71262,B62y600,Malignant lymphoma NOS of intrapelvic lymph nodes
+2,72725,B62y200,Malignant lymphoma NOS of intrathoracic lymph nodes
+2,63105,B62y500,Malignant lymphoma NOS of lymph node inguinal region and leg
+2,34089,B62y400,Malignant lymphoma NOS of lymph nodes of axilla and arm
+2,50696,B62y100,"Malignant lymphoma NOS of lymph nodes of head, face and neck"
+2,15504,B62y800,Malignant lymphoma NOS of lymph nodes of multiple sites
+2,60092,B62y700,Malignant lymphoma NOS of spleen
+2,57427,B62y000,Malignant lymphoma NOS of unspecified site
+2,17887,B62x.00,Malignant lymphoma otherwise specified
+2,89657,B626z00,Malignant mast cell tumour NOS
+2,15036,B626.00,Malignant mast cell tumours
+2,42714,B327500,Malignant melanoma of ankle
+2,59061,B322000,Malignant melanoma of auricle (ear)
+2,49814,B325000,Malignant melanoma of axilla
+2,43463,B325700,Malignant melanoma of back
+2,32768,B325100,Malignant melanoma of breast
+2,53629,B325200,Malignant melanoma of buttock
+2,51209,B325800,Malignant melanoma of chest wall
+2,71136,B323100,Malignant melanoma of chin
+2,57260,B322.00,Malignant melanoma of ear and external auricular canal
+2,73744,B322z00,Malignant melanoma of ear and external auricular canal NOS
+2,102145,B322100,Malignant melanoma of external auditory meatus
+2,41278,B323000,Malignant melanoma of external surface of cheek
+2,45139,B323400,Malignant melanoma of external surface of nose
+2,47094,B323200,Malignant melanoma of eyebrow
+2,54632,B321.00,Malignant melanoma of eyelid including canthus
+2,67806,B323z00,Malignant melanoma of face NOS
+2,25602,B326400,Malignant melanoma of finger
+2,41490,B327700,Malignant melanoma of foot
+2,45755,B326200,Malignant melanoma of fore-arm
+2,68133,B323300,Malignant melanoma of forehead
+2,53369,B327900,Malignant melanoma of great toe
+2,34259,B325300,Malignant melanoma of groin
+2,62475,B326300,Malignant melanoma of hand
+2,61246,B327600,Malignant melanoma of heel
+2,73536,B327000,Malignant melanoma of hip
+2,54305,B327200,Malignant melanoma of knee
+2,70637,B320.00,Malignant melanoma of lip
+2,37872,B327400,Malignant melanoma of lower leg
+2,46255,B327.00,Malignant melanoma of lower limb and hip
+2,64327,B327z00,Malignant melanoma of lower limb or hip NOS
+2,45306,B324100,Malignant melanoma of neck
+2,47252,B323.00,Malignant melanoma of other and unspecified parts of face
+2,42153,B32y.00,Malignant melanoma of other specified skin site
+2,109002,B325400,Malignant melanoma of perianal skin
+2,95629,B325500,Malignant melanoma of perineum
+2,39878,B327300,Malignant melanoma of popliteal fossa area
+2,55881,B324000,Malignant melanoma of scalp
+2,65625,B324.00,Malignant melanoma of scalp and neck
+2,99257,B324z00,Malignant melanoma of scalp and neck NOS
+2,50505,B326000,Malignant melanoma of shoulder
+2,865,B32..00,Malignant melanoma of skin
+2,28556,B32z.00,Malignant melanoma of skin NOS
+2,58958,B323500,Malignant melanoma of temple
+2,51873,B327100,Malignant melanoma of thigh
+2,63997,B326500,Malignant melanoma of thumb
+2,36899,B327800,Malignant melanoma of toe
+2,38689,B325.00,Malignant melanoma of trunk (excluding scrotum)
+2,45760,B325z00,"Malignant melanoma of trunk, excluding scrotum, NOS"
+2,43715,B325600,Malignant melanoma of umbilicus
+2,54685,B326100,Malignant melanoma of upper arm
+2,65164,B326.00,Malignant melanoma of upper limb and shoulder
+2,55292,B326z00,Malignant melanoma of upper limb or shoulder NOS
+2,57248,B082.00,"Malignant neoplasm aryepiglottic fold, hypopharyngeal aspect"
+2,15711,B510.00,Malignant neoplasm cerebrum (excluding lobes and ventricles)
+2,54103,B16..00,Malignant neoplasm gallbladder and extrahepatic bile ducts
+2,15907,B16z.00,Malignant neoplasm gallbladder/extrahepatic bile ducts NOS
+2,49301,B6z..00,Malignant neoplasm lymphatic or haematopoietic tissue NOS
+2,30646,B6y..00,Malignant neoplasm lymphatic or haematopoietic tissue OS
+2,35795,B174.00,Malignant neoplasm of Islets of Langerhans
+2,63995,B123.00,Malignant neoplasm of Meckel's diverticulum
+2,95016,B0z1.00,Malignant neoplasm of Waldeyer's ring
+2,15976,B552.00,Malignant neoplasm of abdomen
+2,63470,B102.00,Malignant neoplasm of abdominal oesophagus
+2,55246,B20z.00,Malignant neoplasm of accessory sinus NOS
+2,65599,B520200,Malignant neoplasm of acoustic nerve
+2,105797,B304100,Malignant neoplasm of acromion
+2,33388,B071000,Malignant neoplasm of adenoid
+2,61390,B540000,Malignant neoplasm of adrenal cortex
+2,28148,B540.00,Malignant neoplasm of adrenal gland
+2,70824,B540z00,Malignant neoplasm of adrenal gland NOS
+2,94220,B540100,Malignant neoplasm of adrenal medulla
+2,10949,B162.00,Malignant neoplasm of ampulla of Vater
+2,24370,B142.00,Malignant neoplasm of anal canal
+2,58121,B014.00,Malignant neoplasm of anterior 2/3 of tongue unspecified
+2,102142,B013000,Malignant neoplasm of anterior 2/3 of tongue ventral surface
+2,46728,B064.00,Malignant neoplasm of anterior epiglottis
+2,73439,B064z00,Malignant neoplasm of anterior epiglottis NOS
+2,27715,B242.00,Malignant neoplasm of anterior mediastinum
+2,45408,B040.00,Malignant neoplasm of anterior portion of floor of mouth
+2,44139,B073.00,Malignant neoplasm of anterior wall of nasopharynx
+2,100918,B073z00,Malignant neoplasm of anterior wall of nasopharynx NOS
+2,65312,B11y000,Malignant neoplasm of anterior wall of stomach NEC
+2,19162,B493.00,Malignant neoplasm of anterior wall of urinary bladder
+2,27897,B143.00,Malignant neoplasm of anus unspecified
+2,47840,B545100,Malignant neoplasm of aortic body
+2,50035,B545.00,Malignant neoplasm of aortic body and other paraganglia
+2,103995,B545z00,Malignant neoplasm of aortic body or paraganglia NOS
+2,18632,B135.00,Malignant neoplasm of appendix
+2,64686,B340100,Malignant neoplasm of areola of female breast
+2,67884,B350100,Malignant neoplasm of areola of male breast
+2,63460,B213000,Malignant neoplasm of arytenoid cartilage
+2,10946,B136.00,Malignant neoplasm of ascending colon
+2,107916,B201000,Malignant neoplasm of auditory (Eustachian) tube
+2,37618,B551000,Malignant neoplasm of axilla NOS
+2,20685,B346.00,Malignant neoplasm of axillary tail of female breast
+2,68787,B55y000,Malignant neoplasm of back NOS
+2,48073,B510000,Malignant neoplasm of basal ganglia
+2,43431,B010.00,Malignant neoplasm of base of tongue
+2,34409,B010000,Malignant neoplasm of base of tongue dorsal surface
+2,41571,B495.00,Malignant neoplasm of bladder neck
+2,40810,B171.00,Malignant neoplasm of body of pancreas
+2,48743,B482.00,Malignant neoplasm of body of penis
+2,43572,B114.00,Malignant neoplasm of body of stomach
+2,7046,B43..00,Malignant neoplasm of body of uterus
+2,33617,B43z.00,Malignant neoplasm of body of uterus NOS
+2,18314,B30..00,Malignant neoplasm of bone and articular cartilage
+2,16075,B30z.00,Malignant neoplasm of bone and articular cartilage NOS
+2,59036,B300.00,Malignant neoplasm of bones of skull and face
+2,69146,B300z00,Malignant neoplasm of bones of skull and face NOS
+2,18617,B51..00,Malignant neoplasm of brain
+2,41520,B51z.00,Malignant neoplasm of brain NOS
+2,44089,B517.00,Malignant neoplasm of brain stem
+2,68641,B517z00,Malignant neoplasm of brain stem NOS
+2,101778,B442.00,Malignant neoplasm of broad ligament
+2,3903,B22z.00,Malignant neoplasm of bronchus or lung NOS
+2,30402,B050.11,Malignant neoplasm of buccal mucosa
+2,3811,B134.00,Malignant neoplasm of caecum
+2,72212,B308200,Malignant neoplasm of calcaneum
+2,36731,B331000,Malignant neoplasm of canthus
+2,32022,B110.00,Malignant neoplasm of cardia of stomach
+2,37859,B110z00,Malignant neoplasm of cardia of stomach NOS
+2,100584,B110000,Malignant neoplasm of cardiac orifice of stomach
+2,22894,B110100,Malignant neoplasm of cardio-oesophageal junction of stomach
+2,17391,B221000,Malignant neoplasm of carina of bronchus
+2,57047,B544.00,Malignant neoplasm of carotid body
+2,69104,B305100,Malignant neoplasm of carpal bone - lunate
+2,57988,B305000,Malignant neoplasm of carpal bone - scaphoid
+2,106069,B305.11,Malignant neoplasm of carpal bones
+2,60035,B310300,Malignant neoplasm of cartilage of ear
+2,71204,B200000,Malignant neoplasm of cartilage of nose
+2,9622,B525.00,Malignant neoplasm of cauda equina
+2,31546,B341.00,Malignant neoplasm of central part of female breast
+2,45154,B516.00,Malignant neoplasm of cerebellum
+2,61399,B510100,Malignant neoplasm of cerebral cortex
+2,110766,B521000,Malignant neoplasm of cerebral dura mater
+2,28919,B521.00,Malignant neoplasm of cerebral meninges
+2,70104,B521z00,Malignant neoplasm of cerebral meninges NOS
+2,64557,B517000,Malignant neoplasm of cerebral peduncle
+2,109473,B521200,Malignant neoplasm of cerebral pia mater
+2,52511,B515.00,Malignant neoplasm of cerebral ventricles
+2,54133,B510z00,Malignant neoplasm of cerebrum NOS
+2,61695,B100.00,Malignant neoplasm of cervical oesophagus
+2,95505,B41y000,Malignant neoplasm of cervical stump
+2,46939,B302000,Malignant neoplasm of cervical vertebra
+2,2747,B41..00,Malignant neoplasm of cervix uteri
+2,28311,B41z.00,Malignant neoplasm of cervix uteri NOS
+2,41931,B550100,Malignant neoplasm of cheek NOS
+2,31364,B050.00,Malignant neoplasm of cheek mucosa
+2,23861,B551100,Malignant neoplasm of chest wall NOS
+2,15991,B506.00,Malignant neoplasm of choroid
+2,46789,B515000,Malignant neoplasm of choroid plexus
+2,59041,B500000,Malignant neoplasm of ciliary body
+2,66639,B303200,Malignant neoplasm of clavicle
+2,53910,B453.00,Malignant neoplasm of clitoris
+2,46159,B142000,Malignant neoplasm of cloacogenic zone
+2,46905,B545200,Malignant neoplasm of coccygeal body
+2,66908,B306400,Malignant neoplasm of coccygeal vertebra
+2,1220,B13..00,Malignant neoplasm of colon
+2,28163,B13z.00,Malignant neoplasm of colon NOS
+2,96783,B005.00,Malignant neoplasm of commissure of lip
+2,7982,B161200,Malignant neoplasm of common bile duct
+2,63657,B503.00,Malignant neoplasm of conjunctiva
+2,34451,B31..00,Malignant neoplasm of connective and other soft tissue
+2,45071,B314.00,Malignant neoplasm of connective and soft tissue of abdomen
+2,29160,B313000,Malignant neoplasm of connective and soft tissue of axilla
+2,70463,B315000,Malignant neoplasm of connective and soft tissue of buttock
+2,91586,B311400,Malignant neoplasm of connective and soft tissue of finger
+2,54222,B312400,Malignant neoplasm of connective and soft tissue of foot
+2,57482,B311200,Malignant neoplasm of connective and soft tissue of fore-arm
+2,19321,B311300,Malignant neoplasm of connective and soft tissue of hand
+2,102949,B312000,Malignant neoplasm of connective and soft tissue of hip
+2,51965,B315.00,Malignant neoplasm of connective and soft tissue of pelvis
+2,59152,B315200,Malignant neoplasm of connective and soft tissue of perineum
+2,50222,B311000,Malignant neoplasm of connective and soft tissue of shoulder
+2,22290,B313.00,Malignant neoplasm of connective and soft tissue of thorax
+2,63988,B311500,Malignant neoplasm of connective and soft tissue of thumb
+2,99572,B312500,Malignant neoplasm of connective and soft tissue of toe
+2,15182,B31z.00,"Malignant neoplasm of connective and soft tissue, site NOS"
+2,64345,B311100,"Malignant neoplasm of connective and soft tissue, upper arm"
+2,86996,B501000,Malignant neoplasm of connective tissue of orbit
+2,73992,B504.00,Malignant neoplasm of cornea
+2,72723,B430000,Malignant neoplasm of cornu of corpus uteri
+2,59170,B51y000,Malignant neoplasm of corpus callosum
+2,45490,B430z00,Malignant neoplasm of corpus uteri NOS
+2,3213,B430.00,"Malignant neoplasm of corpus uteri, excluding isthmus"
+2,60403,B303300,Malignant neoplasm of costal cartilage
+2,67763,B303400,Malignant neoplasm of costo-vertebral joint
+2,99621,B520.00,Malignant neoplasm of cranial nerves
+2,101086,B520z00,Malignant neoplasm of cranial nerves NOS
+2,39899,B542100,Malignant neoplasm of craniopharyngeal duct
+2,37805,B213100,Malignant neoplasm of cricoid cartilage
+2,106569,B500200,Malignant neoplasm of crystalline lens
+2,107878,B213200,Malignant neoplasm of cuneiform cartilage
+2,72445,B161000,Malignant neoplasm of cystic duct
+2,19475,B471.00,Malignant neoplasm of descended testis
+2,10864,B132.00,Malignant neoplasm of descending colon
+2,54186,B313100,Malignant neoplasm of diaphragm
+2,15709,B1...00,Malignant neoplasm of digestive organs and peritoneum
+2,51255,B1zz.00,Malignant neoplasm of digestive tract and peritoneum NOS
+2,44996,B491.00,Malignant neoplasm of dome of urinary bladder
+2,43642,B011.00,Malignant neoplasm of dorsal surface of tongue
+2,43781,B011z00,Malignant neoplasm of dorsum of tongue NOS
+2,18613,B120.00,Malignant neoplasm of duodenum
+2,96635,B17y000,Malignant neoplasm of ectopic pancreatic tissue
+2,95057,B34y000,Malignant neoplasm of ectopic site of female breast
+2,95323,B35z000,Malignant neoplasm of ectopic site of male breast
+2,63430,B241000,Malignant neoplasm of endocardium
+2,57235,B410000,Malignant neoplasm of endocervical canal
+2,53103,B410100,Malignant neoplasm of endocervical gland
+2,48820,B410.00,Malignant neoplasm of endocervix
+2,50285,B410z00,Malignant neoplasm of endocervix NOS
+2,49400,B430211,Malignant neoplasm of endometrium
+2,2890,B430200,Malignant neoplasm of endometrium of corpus uteri
+2,72127,B484.00,Malignant neoplasm of epididymis
+2,55374,B215.00,Malignant neoplasm of epiglottis NOS
+2,26134,B064000,"Malignant neoplasm of epiglottis, free border"
+2,53594,B300000,Malignant neoplasm of ethmoid bone
+2,54636,B203.00,Malignant neoplasm of ethmoid sinus
+2,50297,B411.00,Malignant neoplasm of exocervix
+2,23433,B161.00,Malignant neoplasm of extrahepatic bile ducts
+2,74896,B161z00,Malignant neoplasm of extrahepatic bile ducts NOS
+2,20160,B50..00,Malignant neoplasm of eye
+2,54956,B50z.00,Malignant neoplasm of eye NOS
+2,56718,B500z00,Malignant neoplasm of eyeball NOS
+2,43087,B331.00,Malignant neoplasm of eyelid including canthus
+2,49828,B441.00,Malignant neoplasm of fallopian tube
+2,51926,B062000,Malignant neoplasm of faucial pillar
+2,26448,B060000,Malignant neoplasm of faucial tonsil
+2,3968,B34..00,Malignant neoplasm of female breast
+2,9470,B34z.00,Malignant neoplasm of female breast NOS
+2,20166,B45z.00,Malignant neoplasm of female genital organ NOS
+2,56513,B307000,Malignant neoplasm of femur
+2,50402,B307100,Malignant neoplasm of fibula
+2,94427,B305C00,Malignant neoplasm of fifth metacarpal bone
+2,110993,B305800,Malignant neoplasm of first metacarpal bone
+2,69927,B308800,Malignant neoplasm of first metatarsal bone
+2,91035,B010z00,Malignant neoplasm of fixed part of tongue NOS
+2,94355,B55y200,Malignant neoplasm of flank NOS
+2,20092,B04..00,Malignant neoplasm of floor of mouth
+2,36716,B04z.00,Malignant neoplasm of floor of mouth NOS
+2,63979,B013100,Malignant neoplasm of frenulum linguae
+2,53599,B300100,Malignant neoplasm of frontal bone
+2,42426,B511.00,Malignant neoplasm of frontal lobe
+2,15684,B204.00,Malignant neoplasm of frontal sinus
+2,68155,B430100,Malignant neoplasm of fundus of corpus uteri
+2,32362,B113.00,Malignant neoplasm of fundus of stomach
+2,16105,B160.00,Malignant neoplasm of gallbladder
+2,94278,B110111,Malignant neoplasm of gastro-oesophageal junction
+2,13252,B4...00,Malignant neoplasm of genitourinary organ
+2,52594,B4z..00,Malignant neoplasm of genitourinary organ NOS
+2,38931,B4y..00,Malignant neoplasm of genitourinary organ OS
+2,17841,B481.00,Malignant neoplasm of glans penis
+2,99913,B510300,Malignant neoplasm of globus pallidus
+2,51795,B545000,Malignant neoplasm of glomus jugulare
+2,91895,B064100,Malignant neoplasm of glossoepiglottic fold
+2,99185,B062100,Malignant neoplasm of glossopalatine fold
+2,318,B210.00,Malignant neoplasm of glottis
+2,72522,B313200,Malignant neoplasm of great vessels
+2,55434,B116.00,Malignant neoplasm of greater curve of stomach unspecified
+2,47899,B451000,Malignant neoplasm of greater vestibular (Bartholin's) gland
+2,43400,B03..00,Malignant neoplasm of gum
+2,93218,B03z.00,Malignant neoplasm of gum NOS
+2,73530,B305.00,Malignant neoplasm of hand bones
+2,73556,B305z00,Malignant neoplasm of hand bones NOS
+2,37590,B052.00,Malignant neoplasm of hard palate
+2,55098,B550000,Malignant neoplasm of head NOS
+2,8771,B170.00,Malignant neoplasm of head of pancreas
+2,68236,B550.00,"Malignant neoplasm of head, neck and face"
+2,58903,B550z00,"Malignant neoplasm of head, neck and face NOS"
+2,95644,B241.00,Malignant neoplasm of heart
+2,50289,B241z00,Malignant neoplasm of heart NOS
+2,66750,B24z.00,"Malignant neoplasm of heart, thymus and mediastinum NOS"
+2,52537,B161100,Malignant neoplasm of hepatic duct
+2,9088,B130.00,Malignant neoplasm of hepatic flexure of colon
+2,33444,B221100,Malignant neoplasm of hilus of lung
+2,67236,B512000,Malignant neoplasm of hippocampus
+2,37112,B6...11,Malignant neoplasm of histiocytic tissue
+2,61741,B304200,Malignant neoplasm of humerus
+2,34012,B08..00,Malignant neoplasm of hypopharynx
+2,28451,B08z.00,Malignant neoplasm of hypopharynx NOS
+2,70942,B510400,Malignant neoplasm of hypothalamus
+2,33871,B122.00,Malignant neoplasm of ileum
+2,44609,B306000,Malignant neoplasm of ilium
+2,57854,B553000,Malignant neoplasm of inguinal region NOS
+2,65124,B151000,Malignant neoplasm of interlobular bile ducts
+2,110775,B151100,Malignant neoplasm of interlobular biliary canals
+2,17559,B1z0.00,"Malignant neoplasm of intestinal tract, part unspecified"
+2,16915,B151.00,Malignant neoplasm of intrahepatic bile ducts
+2,61643,B151z00,Malignant neoplasm of intrahepatic bile ducts NOS
+2,89593,B151200,Malignant neoplasm of intrahepatic biliary passages
+2,58088,B151400,Malignant neoplasm of intrahepatic gall duct
+2,97547,B551200,Malignant neoplasm of intrathoracic site NOS
+2,59381,B500100,Malignant neoplasm of iris
+2,59223,B306100,Malignant neoplasm of ischium
+2,43940,B431.00,Malignant neoplasm of isthmus of uterine body
+2,70729,B431z00,Malignant neoplasm of isthmus of uterine body NOS
+2,51818,B550300,Malignant neoplasm of jaw NOS
+2,43479,B121.00,Malignant neoplasm of jejunum
+2,96003,B055000,Malignant neoplasm of junction of hard and soft palate
+2,48519,B065.00,Malignant neoplasm of junctional region of epiglottis
+2,29462,B4Az.00,Malignant neoplasm of kidney or urinary organs NOS
+2,1599,B4A0.00,Malignant neoplasm of kidney parenchyma
+2,43761,B451.00,Malignant neoplasm of labia majora
+2,59362,B451z00,Malignant neoplasm of labia majora NOS
+2,58061,B452.00,Malignant neoplasm of labia minora
+2,71584,B507.00,Malignant neoplasm of lacrimal duct
+2,64817,B502.00,Malignant neoplasm of lacrimal gland
+2,101805,B507000,Malignant neoplasm of lacrimal sac
+2,43111,B213.00,Malignant neoplasm of laryngeal cartilage
+2,97332,B213z00,Malignant neoplasm of laryngeal cartilage NOS
+2,39084,B0z2.00,Malignant neoplasm of laryngopharynx
+2,319,B21..00,Malignant neoplasm of larynx
+2,9237,B21z.00,Malignant neoplasm of larynx NOS
+2,26813,B21y.00,"Malignant neoplasm of larynx, other specified site"
+2,45986,B041.00,Malignant neoplasm of lateral portion of floor of mouth
+2,59004,B072.00,Malignant neoplasm of lateral wall of nasopharynx
+2,102205,B072z00,Malignant neoplasm of lateral wall of nasopharynx NOS
+2,56355,B066.00,Malignant neoplasm of lateral wall of oropharynx
+2,35963,B492.00,Malignant neoplasm of lateral wall of urinary bladder
+2,42193,B115.00,Malignant neoplasm of lesser curve of stomach unspecified
+2,24852,B016.00,Malignant neoplasm of lingual tonsil
+2,14712,B00..00,Malignant neoplasm of lip
+2,73614,B004000,"Malignant neoplasm of lip unspecified, buccal aspect"
+2,61692,B004.00,"Malignant neoplasm of lip unspecified, inner aspect"
+2,68399,B004200,"Malignant neoplasm of lip unspecified, mucosa"
+2,100144,B004300,"Malignant neoplasm of lip, oral aspect"
+2,19415,B0...00,"Malignant neoplasm of lip, oral cavity and pharynx"
+2,39430,B0zz.00,"Malignant neoplasm of lip, oral cavity and pharynx NOS"
+2,37553,B007.00,"Malignant neoplasm of lip, unspecified"
+2,100906,B00z000,"Malignant neoplasm of lip, unspecified, external"
+2,94251,B00z100,"Malignant neoplasm of lip, unspecified, lipstick area"
+2,69761,B00zz00,"Malignant neoplasm of lip, vermilion border NOS"
+2,8918,B15..00,Malignant neoplasm of liver and intrahepatic bile ducts
+2,38978,B15z.00,Malignant neoplasm of liver and intrahepatic bile ducts NOS
+2,26393,B152.00,Malignant neoplasm of liver unspecified
+2,68055,B307.00,Malignant neoplasm of long bones of leg
+2,62630,B307z00,Malignant neoplasm of long bones of leg NOS
+2,97530,B051100,Malignant neoplasm of lower buccal sulcus
+2,41958,B331200,Malignant neoplasm of lower eyelid
+2,49360,B031.00,Malignant neoplasm of lower gum
+2,31399,B555.00,Malignant neoplasm of lower limb NOS
+2,67504,B003000,"Malignant neoplasm of lower lip, buccal aspect"
+2,66384,B001000,"Malignant neoplasm of lower lip, external"
+2,91843,B003100,"Malignant neoplasm of lower lip, frenulum"
+2,71147,B003.00,"Malignant neoplasm of lower lip, inner aspect"
+2,96782,B003z00,"Malignant neoplasm of lower lip, inner aspect NOS"
+2,95480,B001100,"Malignant neoplasm of lower lip, lipstick area"
+2,89909,B003200,"Malignant neoplasm of lower lip, mucosa"
+2,94441,B003300,"Malignant neoplasm of lower lip, oral aspect"
+2,67446,B001.00,"Malignant neoplasm of lower lip, vermilion border"
+2,101707,B001z00,"Malignant neoplasm of lower lip, vermilion border NOS"
+2,18678,B224000,Malignant neoplasm of lower lobe bronchus
+2,12582,B224100,Malignant neoplasm of lower lobe of lung
+2,31188,B224.00,"Malignant neoplasm of lower lobe, bronchus or lung"
+2,42566,B224z00,"Malignant neoplasm of lower lobe, bronchus or lung NOS"
+2,42416,B105.00,Malignant neoplasm of lower third of oesophagus
+2,59097,B431000,Malignant neoplasm of lower uterine segment
+2,45222,B343.00,Malignant neoplasm of lower-inner quadrant of female breast
+2,42070,B345.00,Malignant neoplasm of lower-outer quadrant of female breast
+2,54691,B302200,Malignant neoplasm of lumbar vertebra
+2,12323,B6...00,Malignant neoplasm of lymphatic and haemopoietic tissue
+2,12870,B221.00,Malignant neoplasm of main bronchus
+2,21698,B221z00,Malignant neoplasm of main bronchus NOS
+2,50475,B02z.00,Malignant neoplasm of major salivary gland NOS
+2,20292,B02..00,Malignant neoplasm of major salivary glands
+2,59520,B300200,Malignant neoplasm of malar bone
+2,19423,B35..00,Malignant neoplasm of male breast
+2,48809,B35zz00,Malignant neoplasm of male breast NOS
+2,33833,B301.00,Malignant neoplasm of mandible
+2,71946,B201300,Malignant neoplasm of mastoid air cells
+2,17475,B300A00,Malignant neoplasm of maxilla
+2,32174,B202.00,Malignant neoplasm of maxillary sinus
+2,34878,B308300,Malignant neoplasm of medial cuneiform
+2,61064,B24X.00,"Malignant neoplasm of mediastinum, part unspecified"
+2,49132,B517100,Malignant neoplasm of medulla oblongata
+2,49875,B52X.00,"Malignant neoplasm of meninges, unspecified"
+2,90290,B18y700,Malignant neoplasm of mesentery
+2,59388,B18y100,Malignant neoplasm of mesocaecum
+2,30165,B18y200,Malignant neoplasm of mesorectum
+2,72464,B305.12,Malignant neoplasm of metacarpal bones
+2,93537,B517200,Malignant neoplasm of midbrain
+2,41523,B223000,Malignant neoplasm of middle lobe bronchus
+2,39923,B223100,Malignant neoplasm of middle lobe of lung
+2,31268,B223.00,"Malignant neoplasm of middle lobe, bronchus or lung"
+2,54134,B223z00,"Malignant neoplasm of middle lobe, bronchus or lung NOS"
+2,54171,B104.00,Malignant neoplasm of middle third of oesophagus
+2,107258,B011100,Malignant neoplasm of midline of tongue
+2,55015,B05z.00,Malignant neoplasm of mouth NOS
+2,103946,B220100,Malignant neoplasm of mucosa of trachea
+2,65605,B241200,Malignant neoplasm of myocardium
+2,45793,B430300,Malignant neoplasm of myometrium of corpus uteri
+2,95458,B300300,Malignant neoplasm of nasal bone
+2,23389,B200.00,Malignant neoplasm of nasal cavities
+2,42856,B200z00,Malignant neoplasm of nasal cavities NOS
+2,98911,B200100,Malignant neoplasm of nasal conchae
+2,65357,B507100,Malignant neoplasm of nasolacrimal duct
+2,106915,B073100,Malignant neoplasm of nasopharyngeal soft palate surface
+2,24675,B07..00,Malignant neoplasm of nasopharynx
+2,28665,B07z.00,Malignant neoplasm of nasopharynx NOS
+2,16280,B550400,Malignant neoplasm of neck NOS
+2,56490,B52z.00,Malignant neoplasm of nervous system NOS
+2,26853,B340.00,Malignant neoplasm of nipple and areola of female breast
+2,54494,B350.00,Malignant neoplasm of nipple and areola of male breast
+2,23380,B340000,Malignant neoplasm of nipple of female breast
+2,68480,B350000,Malignant neoplasm of nipple of male breast
+2,59831,B340z00,Malignant neoplasm of nipple or areola of female breast NOS
+2,12490,B550200,Malignant neoplasm of nose NOS
+2,55953,B300400,Malignant neoplasm of occipital bone
+2,39088,B514.00,Malignant neoplasm of occipital lobe
+2,1062,B10..00,Malignant neoplasm of oesophagus
+2,30700,B10z.00,Malignant neoplasm of oesophagus NOS
+2,64971,B520000,Malignant neoplasm of olfactory bulb
+2,50898,B18y300,Malignant neoplasm of omentum
+2,70126,B520100,Malignant neoplasm of optic nerve
+2,45667,B501.00,Malignant neoplasm of orbit
+2,63104,B501z00,Malignant neoplasm of orbit NOS
+2,50298,B300500,Malignant neoplasm of orbital bone
+2,22893,B06..00,Malignant neoplasm of oropharynx
+2,43200,B06z.00,Malignant neoplasm of oropharynx NOS
+2,67323,B06y.00,"Malignant neoplasm of oropharynx, other specified sites"
+2,45267,B55z.00,Malignant neoplasm of other and ill defined site NOS
+2,9030,B55..00,Malignant neoplasm of other and ill-defined sites
+2,14792,B05..00,Malignant neoplasm of other and unspecified parts of mouth
+6,1056,B5z..00,Malignant neoplasm of other and unspecified site NOS
+6,38736,B5y..00,Malignant neoplasm of other and unspecified site OS
+2,10995,B5...00,Malignant neoplasm of other and unspecified sites
+2,70696,B02y.00,Malignant neoplasm of other major salivary glands
+2,67949,B48y.00,Malignant neoplasm of other male genital organ
+2,92329,B48yz00,Malignant neoplasm of other male genital organ NOS
+2,100733,B51yz00,Malignant neoplasm of other part of brain NOS
+2,71139,B51y.00,Malignant neoplasm of other parts of brain
+2,32955,B41y.00,Malignant neoplasm of other site of cervix
+2,43435,B41yz00,Malignant neoplasm of other site of cervix NOS
+2,56715,B34y.00,Malignant neoplasm of other site of female breast
+2,38475,B34yz00,Malignant neoplasm of other site of female breast NOS
+2,54202,B35z.00,Malignant neoplasm of other site of male breast
+2,29283,B2zy.00,Malignant neoplasm of other site of respiratory tract
+2,36949,B49y.00,Malignant neoplasm of other site of urinary bladder
+2,97996,B44y.00,Malignant neoplasm of other site of uterine adnexa
+2,31608,B43y.00,Malignant neoplasm of other site of uterine body
+2,49758,B0zy.00,"Malignant neoplasm of other sites lip, oral cavity, pharynx"
+2,38961,B22y.00,Malignant neoplasm of other sites of bronchus or lung
+2,56709,B04y.00,Malignant neoplasm of other sites of floor of mouth
+2,101753,B03y.00,Malignant neoplasm of other sites of gum
+2,41530,B01y.00,Malignant neoplasm of other sites of tongue
+2,90659,B54y.00,Malignant neoplasm of other specified endocrine gland
+2,95421,B45y.00,Malignant neoplasm of other specified female genital organ
+2,88362,B08y.00,Malignant neoplasm of other specified hypopharyngeal site
+2,37916,B05y.00,Malignant neoplasm of other specified mouth parts
+2,88144,B52y.00,Malignant neoplasm of other specified part of nervous system
+2,53591,B10y.00,Malignant neoplasm of other specified part of oesophagus
+2,98104,B23y.00,Malignant neoplasm of other specified pleura
+2,40437,B50y.00,Malignant neoplasm of other specified site of eye
+2,55630,B07y.00,Malignant neoplasm of other specified site of nasopharynx
+2,91037,B06yz00,Malignant neoplasm of other specified site of oropharynx NOS
+2,55019,B11y.00,Malignant neoplasm of other specified site of stomach
+2,65372,B11yz00,Malignant neoplasm of other specified site of stomach NOS
+2,99896,B12y.00,Malignant neoplasm of other specified site small intestine
+2,42218,B55y.00,Malignant neoplasm of other specified sites
+2,48231,B13y.00,Malignant neoplasm of other specified sites of colon
+2,48537,B17y.00,Malignant neoplasm of other specified sites of pancreas
+2,18354,B33y.00,Malignant neoplasm of other specified skin sites
+2,44884,B4Ay.00,Malignant neoplasm of other urinary organs
+2,7805,B440.00,Malignant neoplasm of ovary
+2,19141,B44..00,Malignant neoplasm of ovary and other uterine adnexa
+2,36371,B225.00,Malignant neoplasm of overlapping lesion of bronchus & lung
+2,16967,B432.00,Malignant neoplasm of overlapping lesion of corpus uteri
+2,18882,B006.00,Malignant neoplasm of overlapping lesion of lip
+2,102151,B060200,Malignant neoplasm of overlapping lesion of tonsil
+2,59286,B4Ay000,Malignant neoplasm of overlapping lesion of urinary organs
+2,27617,B45y000,Malignant neoplasm of overlapping lesion of vulva
+2,28559,B055z00,Malignant neoplasm of palate NOS
+2,70819,B055.00,Malignant neoplasm of palate unspecified
+2,101988,B060100,Malignant neoplasm of palatine tonsil
+2,61510,B062200,Malignant neoplasm of palatoglossal arch
+2,93842,B062300,Malignant neoplasm of palatopharyngeal arch
+2,8166,B17..00,Malignant neoplasm of pancreas
+2,34388,B17z.00,Malignant neoplasm of pancreas NOS
+2,35535,B173.00,Malignant neoplasm of pancreatic duct
+2,46153,B443.00,Malignant neoplasm of parametrium
+2,4218,B541.00,Malignant neoplasm of parathyroid gland
+2,72174,B4A4.00,Malignant neoplasm of paraurethral glands
+2,54747,B300600,Malignant neoplasm of parietal bone
+2,19226,B513.00,Malignant neoplasm of parietal lobe
+2,64516,B18y400,Malignant neoplasm of parietal peritoneum
+2,67107,B230.00,Malignant neoplasm of parietal pleura
+2,4388,B020.00,Malignant neoplasm of parotid gland
+2,54631,B306.00,"Malignant neoplasm of pelvic bones, sacrum and coccyx"
+2,39413,B18y500,Malignant neoplasm of pelvic peritoneum
+2,52316,B553.00,Malignant neoplasm of pelvis
+2,55101,B553z00,Malignant neoplasm of pelvis NOS
+2,38938,B306z00,"Malignant neoplasm of pelvis, sacrum or coccyx NOS"
+2,63224,B48z.00,Malignant neoplasm of penis and other male genital organ NOS
+2,3541,B48..00,Malignant neoplasm of penis and other male genital organs
+2,43392,B483.00,"Malignant neoplasm of penis, part unspecified"
+2,23480,B335900,Malignant neoplasm of perianal skin
+2,94975,B241300,Malignant neoplasm of pericardium
+2,65159,B180100,Malignant neoplasm of perinephric tissue
+2,86046,B524400,Malignant neoplasm of peripheral nerve of abdomen
+2,89258,B524200,"Malignant neoplasm of peripheral nerve of low limb, incl hip"
+2,73988,B524500,Malignant neoplasm of peripheral nerve of pelvis
+2,63695,B524300,Malignant neoplasm of peripheral nerve of thorax
+2,61716,B524100,"Malignant neoplasm of peripheral nerve,upp limb,incl should"
+2,63568,B524000,"Malignant neoplasm of peripheral nerves of head, face & neck"
+2,58949,B308D00,Malignant neoplasm of phalanges of foot
+2,86812,B305D00,Malignant neoplasm of phalanges of hand
+2,37940,B072000,Malignant neoplasm of pharyngeal recess
+2,46548,B071100,Malignant neoplasm of pharyngeal tonsil
+2,16297,B0z0.00,Malignant neoplasm of pharynx unspecified
+2,42460,B543.00,Malignant neoplasm of pineal gland
+2,33271,B332200,Malignant neoplasm of pinna NEC
+2,8550,B542000,Malignant neoplasm of pituitary gland
+2,93762,B42..00,Malignant neoplasm of placenta
+2,31573,B23..00,Malignant neoplasm of pleura
+2,34742,B23z.00,Malignant neoplasm of pleura NOS
+2,91240,B517300,Malignant neoplasm of pons
+2,43548,B080.00,Malignant neoplasm of postcricoid region
+2,92720,B243.00,Malignant neoplasm of posterior mediastinum
+2,64462,B083.00,Malignant neoplasm of posterior pharynx
+2,69671,B010.11,Malignant neoplasm of posterior third of tongue
+2,95429,B071.00,Malignant neoplasm of posterior wall of nasopharynx
+2,96869,B071z00,Malignant neoplasm of posterior wall of nasopharynx NOS
+2,90124,B067.00,Malignant neoplasm of posterior wall of oropharynx
+2,96802,B11y100,Malignant neoplasm of posterior wall of stomach NEC
+2,42012,B494.00,Malignant neoplasm of posterior wall of urinary bladder
+2,50681,B480.00,Malignant neoplasm of prepuce (foreskin)
+2,48237,B111000,Malignant neoplasm of prepylorus of stomach
+2,89916,B553100,Malignant neoplasm of presacral region
+2,780,B46..00,Malignant neoplasm of prostate
+2,51921,B306200,Malignant neoplasm of pubis
+2,19318,B112.00,Malignant neoplasm of pyloric antrum of stomach
+2,41215,B111100,Malignant neoplasm of pyloric canal of stomach
+2,21620,B111.00,Malignant neoplasm of pylorus of stomach
+2,59092,B111z00,Malignant neoplasm of pylorus of stomach NOS
+2,39897,B081.00,Malignant neoplasm of pyriform sinus
+2,92371,B304300,Malignant neoplasm of radius
+2,27855,B140.00,Malignant neoplasm of rectosigmoid junction
+2,1800,B141.00,Malignant neoplasm of rectum
+2,35357,B14..00,"Malignant neoplasm of rectum, rectosigmoid junction and anus"
+2,27540,B4A1000,Malignant neoplasm of renal calyces
+2,12389,B4A1.00,Malignant neoplasm of renal pelvis
+2,54184,B4A1z00,Malignant neoplasm of renal pelvis NOS
+2,42569,B2zz.00,Malignant neoplasm of respiratory tract NOS
+2,28069,B505.00,Malignant neoplasm of retina
+2,24048,B180200,Malignant neoplasm of retrocaecal tissue
+2,37724,B056.00,Malignant neoplasm of retromolar area
+2,21330,B180.00,Malignant neoplasm of retroperitoneum
+2,61555,B180z00,Malignant neoplasm of retroperitoneum NOS
+2,44108,B18..00,Malignant neoplasm of retroperitoneum and peritoneum
+2,16298,B18z.00,Malignant neoplasm of retroperitoneum and peritoneum NOS
+2,37842,B303000,Malignant neoplasm of rib
+2,51237,B303z00,"Malignant neoplasm of rib, sternum and clavicle NOS"
+2,27528,B303.00,"Malignant neoplasm of ribs, sternum and clavicle"
+2,69951,B055100,Malignant neoplasm of roof of mouth
+2,94390,B070.00,Malignant neoplasm of roof of nasopharynx
+2,40966,B306300,Malignant neoplasm of sacral vertebra
+2,107126,B553200,Malignant neoplasm of sacrococcygeal region
+2,37165,B334000,Malignant neoplasm of scalp
+2,54234,B334.00,Malignant neoplasm of scalp and skin of neck
+2,73760,B334z00,Malignant neoplasm of scalp or skin of neck NOS
+2,49054,B304000,Malignant neoplasm of scapula
+2,71810,B304.00,Malignant neoplasm of scapula and long bones of upper arm
+2,47767,B486.00,Malignant neoplasm of scrotum
+2,37016,B33..14,Malignant neoplasm of sebaceous gland
+,111426,B308900,Malignant neoplasm of second metatarsal bone
+2,68161,B48y000,Malignant neoplasm of seminal vesicle
+2,62761,B200200,Malignant neoplasm of septum of nose
+2,105475,B308.00,Malignant neoplasm of short bones of leg
+2,103354,B308z00,Malignant neoplasm of short bones of leg NOS
+2,2815,B133.00,Malignant neoplasm of sigmoid colon
+2,2492,B33z.00,Malignant neoplasm of skin NOS
+2,18618,B335300,Malignant neoplasm of skin of abdominal wall
+2,64270,B337500,Malignant neoplasm of skin of ankle
+2,33997,B332000,Malignant neoplasm of skin of auricle (ear)
+2,70380,B335000,Malignant neoplasm of skin of axillary fold
+2,45077,B335700,Malignant neoplasm of skin of back
+2,30543,B335200,Malignant neoplasm of skin of breast
+2,62305,B335800,Malignant neoplasm of skin of buttock
+2,30645,B333000,"Malignant neoplasm of skin of cheek, external"
+2,37969,B335100,"Malignant neoplasm of skin of chest, excluding breast"
+2,49403,B333100,Malignant neoplasm of skin of chin
+2,62080,B332100,Malignant neoplasm of skin of external auditory meatus
+2,55670,B333200,Malignant neoplasm of skin of eyebrow
+2,25245,B336400,Malignant neoplasm of skin of finger
+2,70587,B337700,Malignant neoplasm of skin of foot
+2,30577,B336200,Malignant neoplasm of skin of fore-arm
+2,30576,B333300,Malignant neoplasm of skin of forehead
+2,67914,B337900,Malignant neoplasm of skin of great toe
+2,66319,B335500,Malignant neoplasm of skin of groin
+2,54352,B336300,Malignant neoplasm of skin of hand
+2,104025,B337600,Malignant neoplasm of skin of heel
+2,70988,B337000,Malignant neoplasm of skin of hip
+2,56954,B337200,Malignant neoplasm of skin of knee
+2,18245,B330.00,Malignant neoplasm of skin of lip
+2,33682,B337400,Malignant neoplasm of skin of lower leg
+2,57442,B337.00,Malignant neoplasm of skin of lower limb and hip
+2,61194,B337z00,Malignant neoplasm of skin of lower limb or hip NOS
+2,43619,B334100,Malignant neoplasm of skin of neck
+2,16202,B333400,Malignant neoplasm of skin of nose (external)
+2,46458,B335600,Malignant neoplasm of skin of perineum
+2,68197,B337300,Malignant neoplasm of skin of popliteal fossa area
+2,66447,B335A00,Malignant neoplasm of skin of scapular region
+2,43122,B336000,Malignant neoplasm of skin of shoulder
+2,21327,B333500,Malignant neoplasm of skin of temple
+2,58601,B337100,Malignant neoplasm of skin of thigh
+2,64406,B336500,Malignant neoplasm of skin of thumb
+2,65782,B337800,Malignant neoplasm of skin of toe
+2,57446,B335.00,"Malignant neoplasm of skin of trunk, excluding scrotum"
+2,15868,B335z00,"Malignant neoplasm of skin of trunk, excluding scrotum, NOS"
+2,67748,B335400,Malignant neoplasm of skin of umbilicus
+2,42707,B336100,Malignant neoplasm of skin of upper arm
+2,30747,B336.00,Malignant neoplasm of skin of upper limb and shoulder
+2,60526,B336z00,Malignant neoplasm of skin of upper limb or shoulder NOS
+2,43390,B12z.00,Malignant neoplasm of small intestine NOS
+2,6806,B12..00,Malignant neoplasm of small intestine and duodenum
+2,40292,B053.00,Malignant neoplasm of soft palate
+2,40014,B310100,Malignant neoplasm of soft tissue of face
+2,59382,B310000,Malignant neoplasm of soft tissue of head
+2,48517,B310200,Malignant neoplasm of soft tissue of neck
+2,46613,B18y.00,Malignant neoplasm of specified parts of peritoneum
+2,64106,B18yz00,Malignant neoplasm of specified parts of peritoneum NOS
+2,60052,B55yz00,Malignant neoplasm of specified site NOS
+2,95783,B17yz00,Malignant neoplasm of specified site of pancreas NOS
+2,63331,B485.00,Malignant neoplasm of spermatic cord
+2,55595,B300700,Malignant neoplasm of sphenoid bone
+2,65215,B205.00,Malignant neoplasm of sphenoidal sinus
+2,105613,B161300,Malignant neoplasm of sphincter of Oddi
+2,51115,B522.00,Malignant neoplasm of spinal cord
+2,49714,B523.00,Malignant neoplasm of spinal meninges
+2,67211,B523z00,Malignant neoplasm of spinal meninges NOS
+2,65460,B1z1.00,Malignant neoplasm of spleen NEC
+2,93778,B1z1z00,Malignant neoplasm of spleen NOS
+2,18619,B137.00,Malignant neoplasm of splenic flexure of colon
+2,57719,B41y100,Malignant neoplasm of squamocolumnar junction of cervix
+2,49491,B303100,Malignant neoplasm of sternum
+2,8386,B11..00,Malignant neoplasm of stomach
+2,14800,B11z.00,Malignant neoplasm of stomach NOS
+2,22441,B212.00,Malignant neoplasm of subglottis
+2,70928,B022.00,Malignant neoplasm of sublingual gland
+2,51786,B021.00,Malignant neoplasm of submandibular gland
+2,73510,B550500,Malignant neoplasm of supraclavicular fossa NOS
+2,26165,B211.00,Malignant neoplasm of supraglottis
+2,40443,B33..15,Malignant neoplasm of sweat gland
+2,39870,B172.00,Malignant neoplasm of tail of pancreas
+2,95182,B308100,Malignant neoplasm of talus
+2,49463,B310400,Malignant neoplasm of tarsus of eyelid
+2,62104,B300800,Malignant neoplasm of temporal bone
+2,46792,B512.00,Malignant neoplasm of temporal lobe
+2,47556,B512z00,Malignant neoplasm of temporal lobe NOS
+2,15148,B47..00,Malignant neoplasm of testis
+2,38510,B47z.00,Malignant neoplasm of testis NOS
+2,62126,B510500,Malignant neoplasm of thalamus
+2,69821,B18y600,Malignant neoplasm of the pouch of Douglas
+2,108638,B305A00,Malignant neoplasm of third metacarpal bone
+2,41362,B101.00,Malignant neoplasm of thoracic oesophagus
+2,32372,B302100,Malignant neoplasm of thoracic vertebra
+2,47286,B551.00,Malignant neoplasm of thorax
+2,64810,B551z00,Malignant neoplasm of thorax NOS
+2,27483,B240.00,Malignant neoplasm of thymus
+2,62556,B24..00,"Malignant neoplasm of thymus, heart and mediastinum"
+2,47862,B213300,Malignant neoplasm of thyroid cartilage
+2,5637,B53..00,Malignant neoplasm of thyroid gland
+2,40814,B307200,Malignant neoplasm of tibia
+2,10283,B01..00,Malignant neoplasm of tongue
+2,40557,B01z.00,Malignant neoplasm of tongue NOS
+2,37096,B015.00,"Malignant neoplasm of tongue, junctional zone"
+2,36161,B012.00,"Malignant neoplasm of tongue, tip and lateral border"
+2,16241,B060.00,Malignant neoplasm of tonsil
+2,24397,B061.00,Malignant neoplasm of tonsillar fossa
+2,100002,B062z00,Malignant neoplasm of tonsillar fossa NOS
+2,55066,B062.00,Malignant neoplasm of tonsillar pillar
+2,15221,B220.00,Malignant neoplasm of trachea
+2,37810,B220z00,Malignant neoplasm of trachea NOS
+2,13243,B22..00,"Malignant neoplasm of trachea, bronchus and lung"
+2,6935,B131.00,Malignant neoplasm of transverse colon
+2,38862,B490.00,Malignant neoplasm of trigone of urinary bladder
+2,67217,B55y100,Malignant neoplasm of trunk NOS
+2,47668,B48y100,Malignant neoplasm of tunica vaginalis
+2,54613,B201200,Malignant neoplasm of tympanic antrum
+2,98537,B201100,Malignant neoplasm of tympanic cavity
+2,64848,B304400,Malignant neoplasm of ulna
+2,64602,B470.00,Malignant neoplasm of undescended testis
+2,96429,B470z00,Malignant neoplasm of undescended testis NOS
+6,47810,B59..00,Malignant neoplasm of unspecified site
+6,54267,B59z.00,Malignant neoplasm of unspecified site NOS
+2,95772,B051000,Malignant neoplasm of upper buccal sulcus
+2,55550,B331100,Malignant neoplasm of upper eyelid
+2,32024,B030.00,Malignant neoplasm of upper gum
+2,27449,B554.00,Malignant neoplasm of upper limb NOS
+,111289,B002000,"Malignant neoplasm of upper lip, buccal aspect"
+2,66270,B000000,"Malignant neoplasm of upper lip, external"
+2,99001,B002100,"Malignant neoplasm of upper lip, frenulum"
+2,99493,B002.00,"Malignant neoplasm of upper lip, inner aspect"
+2,100721,B002z00,"Malignant neoplasm of upper lip, inner aspect NOS"
+2,50296,B000100,"Malignant neoplasm of upper lip, lipstick area"
+2,98500,B002200,"Malignant neoplasm of upper lip, mucosa"
+2,90610,B002300,"Malignant neoplasm of upper lip, oral aspect"
+2,73962,B000.00,"Malignant neoplasm of upper lip, vermilion border"
+2,98740,B000z00,"Malignant neoplasm of upper lip, vermilion border NOS"
+2,31700,B222000,Malignant neoplasm of upper lobe bronchus
+2,25886,B222100,Malignant neoplasm of upper lobe of lung
+2,10358,B222.00,"Malignant neoplasm of upper lobe, bronchus or lung"
+2,44169,B222z00,"Malignant neoplasm of upper lobe, bronchus or lung NOS"
+2,50789,B103.00,Malignant neoplasm of upper third of oesophagus
+2,29826,B342.00,Malignant neoplasm of upper-inner quadrant of female breast
+2,23399,B344.00,Malignant neoplasm of upper-outer quadrant of female breast
+2,42023,B497.00,Malignant neoplasm of urachus
+2,15223,B4A2.00,Malignant neoplasm of ureter
+2,28241,B496.00,Malignant neoplasm of ureteric orifice
+2,101608,B4A1100,Malignant neoplasm of ureteropelvic junction
+2,15644,B4A3.00,Malignant neoplasm of urethra
+2,779,B49..00,Malignant neoplasm of urinary bladder
+2,31102,B49z.00,Malignant neoplasm of urinary bladder NOS
+2,65106,B44z.00,Malignant neoplasm of uterine adnexa NOS
+2,2744,B40..00,"Malignant neoplasm of uterus, part unspecified"
+2,37516,B054.00,Malignant neoplasm of uvula
+2,37328,B450.00,Malignant neoplasm of vagina
+2,60772,B450z00,Malignant neoplasm of vagina NOS
+2,10698,B450100,Malignant neoplasm of vaginal vault
+2,39554,B063.00,Malignant neoplasm of vallecula
+2,62840,B013.00,Malignant neoplasm of ventral surface of tongue
+2,38488,B013z00,Malignant neoplasm of ventral tongue surface NOS
+2,16704,B302.00,Malignant neoplasm of vertebral column
+2,49701,B302z00,Malignant neoplasm of vertebral column NOS
+2,103796,B051.00,Malignant neoplasm of vestibule of mouth
+2,62182,B200300,Malignant neoplasm of vestibule of nose
+2,106194,B231.00,Malignant neoplasm of visceral pleura
+2,44452,B300C00,Malignant neoplasm of vomer
+2,4554,B454.00,Malignant neoplasm of vulva unspecified
+2,54493,B303500,Malignant neoplasm of xiphoid process
+2,50299,B300900,Malignant neoplasm of zygomatic bone
+2,60312,B16y.00,Malignant neoplasm other gallbladder/extrahepatic bile duct
+2,56918,B1zy.00,Malignant neoplasm other spec digestive tract and peritoneum
+2,42429,B33X.00,Malignant neoplasm overlapping lesion of skin
+2,59823,B542.00,Malignant neoplasm pituitary gland and craniopharyngeal duct
+2,99386,B073200,Malignant neoplasm posterior margin nasal septum and choanae
+2,50974,B14z.00,"Malignant neoplasm rectum,rectosigmoid junction and anus NOS"
+2,53515,B332.00,Malignant neoplasm skin of ear and external auricular canal
+2,27370,B333.00,Malignant neoplasm skin of other and unspecified parts face
+2,46008,B333z00,Malignant neoplasm skin other and unspec part of face NOS
+2,108389,B310500,Malignant neoplasm soft tissues of cervical spine
+2,53884,B060z00,Malignant neoplasm tonsil NOS
+,111311,B317.00,"Malignant neoplasm, overlap lesion connective & soft tissue"
+2,66646,B26..00,"Malignant neoplasm, overlap lesion of resp & intrathor orgs"
+2,68824,B48y200,"Malignant neoplasm, overlapping lesion male genital orgs"
+2,39590,B206.00,"Malignant neoplasm, overlapping lesion of accessory sinuses"
+2,35039,B163.00,"Malignant neoplasm, overlapping lesion of biliary tract"
+2,47801,B49y000,"Malignant neoplasm, overlapping lesion of bladder"
+2,65241,B51y200,"Malignant neoplasm, overlapping lesion of brain"
+2,49148,B347.00,"Malignant neoplasm, overlapping lesion of breast"
+2,58094,B412.00,"Malignant neoplasm, overlapping lesion of cervix uteri"
+2,93478,B138.00,"Malignant neoplasm, overlapping lesion of colon"
+2,94776,B1z2.00,"Malignant neoplasm, overlapping lesion of digestive system"
+2,45922,B508.00,"Malignant neoplasm, overlapping lesion of eye and adnexa"
+2,17912,B042.00,"Malignant neoplasm, overlapping lesion of floor of mouth"
+2,50579,B214.00,"Malignant neoplasm, overlapping lesion of larynx"
+2,66422,B074.00,"Malignant neoplasm, overlapping lesion of nasopharynx"
+2,67497,B106.00,"Malignant neoplasm, overlapping lesion of oesophagus"
+2,97875,B175.00,"Malignant neoplasm, overlapping lesion of pancreas"
+2,52570,B487.00,"Malignant neoplasm, overlapping lesion of penis"
+2,66166,B124.00,"Malignant neoplasm, overlapping lesion of small intestine"
+2,51690,B117.00,"Malignant neoplasm, overlapping lesion of stomach"
+2,50777,B524600,"Malignant neoplasm,overlap lesion periph nerve & auton ns"
+2,87113,B54X.00,"Malignant neoplasm-pluriglandular involvement,unspecified"
+2,43614,B30X.00,"Malignant neoplasm/bones+articular cartilage/limb,unspfd"
+2,67451,B30W.00,Malignant neoplasm/overlap lesion/bone+articulr cartilage
+2,26454,B45X.00,Malignant neoplasm/overlapping lesion/feml genital organs
+6,51352,B592.00,Malignant neoplasms of independent (primary) multiple sites
+2,65434,B62z.00,Malignant neoplasms of lymphoid and histiocytic tissue NOS
+2,47205,B017.00,Malignant overlapping lesion of tongue
+2,22158,B630000,"Malignant plasma cell neoplasm, extramedullary plasmacytoma"
+2,62437,B62x400,Malignant reticulosis
+2,50152,B306500,Malignant sacral teratoma
+1,52236,C10A.00,Malnutrition-related diabetes mellitus
+1,66675,C10A000,Malnutrition-related diabetes mellitus with coma
+1,33969,C10A100,Malnutrition-related diabetes mellitus with ketoacidosis
+1,67709,H354.00,Malt workers' lung
+1,56652,H356.00,Maple bark strippers' lung
+1,89206,H423.00,Massive silicotic fibrosis
+2,65721,B673.00,Mast cell leukaemia
+2,100615,B626500,Mast cell malignancy of lymph nodes inguinal region and leg
+2,31324,B626800,Mast cell malignancy of lymph nodes of multiple sites
+2,103900,B626000,Mast cell malignancy of unspecified site
+1,14889,C100111,Maturity onset diabetes
+1,59991,C10D.11,Maturity onset diabetes in youth type 2
+2,57671,B672.00,Megakaryocytic leukaemia
+2,12465,K032.00,Membranoproliferative nephritis unspecified
+2,41881,K032y14,Mesangiocapillary glomerulonephritis NEC
+2,36342,K032y13,Mesangioproliferative glomerulonephritis NEC
+2,7484,B226.00,Mesothelioma
+2,101885,B241400,Mesothelioma of pericardium
+2,17874,B181.00,Mesothelioma of peritoneum
+2,9600,B232.00,Mesothelioma of pleura
+6,6471,B57..11,Metastases of respiratory and/or digestive systems
+1,3018,663V100,Mild asthma
+1,25796,H332.00,Mixed asthma
+1,24248,H313.00,Mixed simple and mucopurulent chronic bronchitis
+1,13065,663V200,Moderate asthma
+2,67700,B66..12,Monoblastic leukaemia
+2,35875,B66..00,Monocytic leukaemia
+2,93342,B66z.00,Monocytic leukaemia NOS
+1,11150,H311.00,Mucopurulent chronic bronchitis
+1,61513,H311z00,Mucopurulent chronic bronchitis NOS
+1,8634,E004.11,Multi infarct dementia
+1,69204,J615100,Multilobular portal cirrhosis
+1,98642,G633.00,Multiple and bilateral precerebral arterial occlusion
+1,52323,J11z.12,Multiple gastric ulcers
+2,4944,B630.00,Multiple myeloma
+2,37182,B63..00,Multiple myeloma and immunoproliferative neoplasms
+1,17085,N240200,Muscular rheumatism
+1,41694,H355.00,Mushroom workers' lung
+2,39420,F381300,Myasthenic syndrome due to diabetic amyotrophy
+2,12006,B621.00,Mycosis fungoides
+2,38005,B621z00,Mycosis fungoides NOS
+2,91674,B621300,Mycosis fungoides of intra-abdominal lymph nodes
+2,96379,B621400,Mycosis fungoides of lymph nodes of axilla and upper limb
+2,72714,B621500,Mycosis fungoides of lymph nodes of inguinal region and leg
+2,95012,B621800,Mycosis fungoides of lymph nodes of multiple sites
+2,95949,B621000,Mycosis fungoides of unspecified site
+2,7176,B65..00,Myeloid leukaemia
+2,33344,B65z.00,Myeloid leukaemia NOS
+2,70724,B653.00,Myeloid sarcoma
+2,15211,B630.12,Myelomatosis
+2,20440,B69..00,Myelomonocytic leukaemia
+2,17056,B6y0.11,Myeloproliferative disease
+2,6115,B6y0.00,Myeloproliferative disorder
+2,39336,B6y1.00,Myelosclerosis with myeloid metaplasia
+1,108072,F396100,Myopathy due to disseminated lupus erythematosus
+1,31209,F396400,Myopathy due to rheumatoid arthritis
+1,55601,F396600,Myopathy due to scleroderma
+1,5884,C109.11,NIDDM - Non-insulin dependent diabetes mellitus
+1,56803,C107400,NIDDM with peripheral circulatory disorder
+2,782,B....00,Neoplasms
+2,35904,Bz...00,Neoplasms NOS
+2,45700,By...00,Neoplasms otherwise specified
+2,10647,K02..11,Nephritis - chronic
+2,4850,K03..11,Nephritis and nephropathy unspecified
+2,33580,K03..00,Nephritis and nephropathy unspecified
+2,67193,K032y00,Nephritis unsp+OS membranoprolif glomerulonephritis lesion
+2,94350,K032z00,Nephritis unsp+membranoprolif glomerulonephritis lesion NOS
+2,2773,K0...00,"Nephritis, nephrosis and nephrotic syndrome"
+2,30310,K081.00,Nephrogenic diabetes insipidus
+2,11875,K02..12,Nephropathy - chronic
+2,21989,K019.00,"Nephrotic syn,diffuse mesangiocapillary glomerulonephritis"
+1,47672,K01x400,Nephrotic syndrome in systemic lupus erythematosus
+2,99644,K012.00,Nephrotic syndrome+membranoproliferative glomerulonephritis
+2,5179,B620.00,Nodular lymphoma (Brill - Symmers disease)
+2,65701,B620z00,Nodular lymphoma NOS
+2,92068,B620300,Nodular lymphoma of intra-abdominal lymph nodes
+2,105203,B620200,Nodular lymphoma of intrathoracic lymph nodes
+2,45264,B620100,"Nodular lymphoma of lymph nodes of head, face and neck"
+2,94995,B620500,Nodular lymphoma of lymph nodes of inguinal region and leg
+2,58082,B620800,Nodular lymphoma of lymph nodes of multiple sites
+2,66327,B620000,Nodular lymphoma of unspecified site
+2,3604,B627.00,Non - Hodgkin's lymphoma
+2,10755,F420600,Non proliferative diabetic retinopathy
+1,16455,J615z00,Non-alcoholic cirrhosis NOS
+2,69278,C109E00,Non-insulin depend diabetes mellitus with diabetic cataract
+2,40962,C109H00,Non-insulin dependent d m with neuropathic arthropathy
+1,506,C100112,Non-insulin dependent diabetes mellitus
+1,4513,C109.00,Non-insulin dependent diabetes mellitus
+1,8403,C109700,Non-insulin dependent diabetes mellitus - poor control
+1,24693,C109G00,Non-insulin dependent diabetes mellitus with arthropathy
+1,40401,C109500,Non-insulin dependent diabetes mellitus with gangrene
+1,43785,C109D00,Non-insulin dependent diabetes mellitus with hypoglyca coma
+2,72320,C109A00,Non-insulin dependent diabetes mellitus with mononeuropathy
+2,59365,C109C00,Non-insulin dependent diabetes mellitus with nephropathy
+2,45467,C109B00,Non-insulin dependent diabetes mellitus with polyneuropathy
+1,34912,C109400,Non-insulin dependent diabetes mellitus with ulcer
+1,62146,C109300,Non-insulin-dependent diabetes mellitus with multiple comps
+2,55842,C109200,Non-insulin-dependent diabetes mellitus with neuro comps
+2,50429,C109100,Non-insulin-dependent diabetes mellitus with ophthalm comps
+2,52303,C109000,Non-insulin-dependent diabetes mellitus with renal comps
+2,17262,C109600,Non-insulin-dependent diabetes mellitus with retinopathy
+1,29979,C109900,Non-insulin-dependent diabetes mellitus without complication
+1,15205,N2z..00,Nonarticular rheumatism NOS
+1,45284,2A42.00,O/E - ankle reflex abnormal
+2,9835,2BBL.00,O/E - diabetic maculopathy present both eyes
+1,11680,2I16.00,O/E - gangrene
+2,22135,2833,O/E - hemiplegia
+2,11129,2BBQ.00,O/E - left eye background diabetic retinopathy
+2,13103,2BBS.00,O/E - left eye preproliferative diabetic retinopathy
+2,13101,2BBV.00,O/E - left eye proliferative diabetic retinopathy
+2,52041,2BBl.00,O/E - left eye stable treated prolif diabetic retinopathy
+2,36133,2835,O/E - paraplegia
+2,11433,2BBP.00,O/E - right eye background diabetic retinopathy
+2,13099,2BBR.00,O/E - right eye preproliferative diabetic retinopathy
+2,47328,2BBk.00,O/E - right eye stable treated prolif diabetic retinopathy
+1,63216,H464100,Obliterative bronchiolitis due to chemical fumes
+1,27819,H312.00,Obstructive chronic bronchitis
+1,44525,H312z00,Obstructive chronic bronchitis NOS
+1,3458,663V000,Occasional asthma
+1,71274,G677400,Occlusion+stenosis of multiple and bilat cerebral arteries
+1,22752,173c.00,Occupational asthma
+2,4865,B10z.11,Oesophageal cancer
+3,1641,G85..11,Oesophageal varices
+3,10797,G858.00,Oesophageal varices NOS
+3,8363,G852300,Oesophageal varices in alcoholic cirrhosis of the liver
+3,26319,G852200,Oesophageal varices in cirrhosis of the liver
+3,44424,G852.00,Oesophageal varices in diseases EC
+3,62582,G852z00,Oesophageal varices in diseases EC NOS
+3,24989,G850.00,Oesophageal varices with bleeding
+3,96756,G852000,Oesophageal varices with bleeding in diseases EC
+3,30655,G851.00,Oesophageal varices without bleeding
+3,73139,G852100,Oesophageal varices without bleeding in diseases EC
+1,4017,G32..00,Old myocardial infarction
+1,96717,S621.00,Open traumatic subarachnoid haemorrhage
+1,33914,761Jz00,Operation on gastric ulcer NOS
+1,5928,7627,Operations on duodenal ulcer
+1,23688,761J.00,Operations on gastric ulcer
+2,29735,B30..12,Osteoma
+2,19437,B30z000,Osteosarcoma
+2,44318,B62xX00,Oth and unspecif peripheral & cutaneous T-cell lymphomas
+1,34803,G30y.00,Other acute myocardial infarction
+1,46017,G30yz00,Other acute myocardial infarction NOS
+2,35235,K04y.00,Other acute renal failure
+1,51858,H35y.00,Other allergic alveolitis
+1,55552,H35yz00,Other allergic alveolitis NOS
+2,94174,B67y.00,Other and unspecified leukaemia
+2,99413,B67yz00,Other and unspecified leukaemia NOS
+1,13577,G67..00,Other cerebrovascular disease
+1,37493,G67z.00,Other cerebrovascular disease NOS
+1,34117,G67y.00,Other cerebrovascular disease OS
+1,66043,H31y.00,Other chronic bronchitis
+1,68066,H31yz00,Other chronic bronchitis NOS
+2,63615,K02yz00,Other chronic glomerulonephritis NOS
+1,40788,H32y.00,Other emphysema
+1,16410,H32yz00,Other emphysema NOS
+2,64567,B63y.00,Other immunoproliferative neoplasms
+2,50804,K08yz00,Other impaired renal function disorder NOS
+2,34692,B68y.00,Other leukaemia of unspecified cell type
+2,49725,B64y.00,Other lymphoid leukaemia
+2,38331,B64yz00,Other lymphoid leukaemia NOS
+6,26034,B591.00,Other malignant neoplasm NOS
+2,33333,B62..00,Other malignant neoplasm of lymphoid and histiocytic tissue
+2,4632,B33..00,Other malignant neoplasm of skin
+2,99015,B66y.00,Other monocytic leukaemia
+2,103645,B66yz00,Other monocytic leukaemia NOS
+2,66089,B65yz00,Other myeloid leukaemia NOS
+1,5943,G73..00,Other peripheral vascular disease
+1,51326,G63y.00,Other precerebral artery occlusion
+3,48102,J62y.00,Other sequelae of chronic liver disease
+1,5387,G301.00,Other specified anterior myocardial infarction
+1,51311,G6y..00,Other specified cerebrovascular disease
+1,59288,C103y00,Other specified diabetes mellitus with coma
+1,38617,C101y00,Other specified diabetes mellitus with ketoacidosis
+2,61523,C106y00,Other specified diabetes mellitus with neurological comps
+2,47377,C105y00,Other specified diabetes mellitus with ophthalmic complicatn
+1,10098,C10yy00,Other specified diabetes mellitus with other spec comps
+2,13279,C104y00,Other specified diabetes mellitus with renal complications
+1,64283,C10zy00,Other specified diabetes mellitus with unspecified comps
+2,37272,B67..00,Other specified leukaemia
+2,30632,B67z.00,Other specified leukaemia NOS
+1,35759,N2y..00,Other specified nonarticular rheumatism
+1,94104,761Jy00,Other specified operation on gastric ulcer
+1,38907,G73y.00,Other specified peripheral vascular disease
+1,4325,G73yz00,Other specified peripheral vascular disease NOS
+2,99887,B60y.00,Other specified reticulosarcoma or lymphosarcoma
+3,89587,A704z00,Other specified viral hepatitis with hepatic coma NOS
+1,19354,G65y.00,Other transient cerebral ischaemia
+2,10314,B057.00,Overlapping lesion of other and unspecified parts of mouth
+2,101907,B182.00,Overlapping malign lesion of retroperitoneum and peritoneum
+2,96585,B32y000,Overlapping malignant melanoma of skin
+2,20170,B222.11,Pancoast's syndrome
+1,46578,H321.00,Panlobular emphysema
+2,3063,F241.00,Paraplegia
+2,99040,F230.11,Paraplegia - congenital
+6,18676,B585000,Pathological fracture due to metastatic bone disease
+1,12213,8BL2.00,Patient on maximal tolerated therapy for diabetes
+1,670,J13..00,Peptic ulcer - (PU) site unspecified
+1,19928,J13z.00,Peptic ulcer NOS
+1,24021,J102000,Peptic ulcer of oesophagus
+1,4643,1956,Peptic ulcer symptoms
+1,11104,J111211,Perforated chronic gastric ulcer
+2,12464,B62x200,Peripheral T-cell lymphoma
+1,9204,G732.00,Peripheral gangrene
+1,5702,G73..11,Peripheral ischaemic vascular disease
+1,3530,G73z.00,Peripheral vascular disease NOS
+1,2760,G73zz00,Peripheral vascular disease NOS
+1,17464,G32..12,Personal history of myocardial infarction
+2,18231,B540.11,Phaeochromocytoma
+2,68114,K080000,Phosphate-losing tubular disorders
+1,31447,H352100,Pigeon-fanciers' lung
+1,8206,C350012,Pigmentary cirrhosis of liver
+1,45427,H35y500,Pituitary snuff-takers' disease
+2,39187,B631.00,Plasma cell leukaemia
+2,21329,B630200,Plasmacytoma NOS
+1,5005,H410.00,Pleural plaque disease due to asbestosis
+1,31423,H45..00,Pneumoconiosis NOS
+1,23461,H43z.00,Pneumoconiosis due to inorganic dust NOS
+1,65376,H43..00,Pneumoconiosis due to other inorganic dust
+1,7731,H330.14,Pollen asthma
+1,1408,N20..00,Polymyalgia rheumatica
+1,15511,N004.00,Polymyositis
+1,93927,N231400,Polymyositis ossificans
+2,63555,F374z00,Polyneuropathy in disease NOS
+1,62401,F371200,Polyneuropathy in rheumatoid arthritis
+1,47257,J615.11,Portal cirrhosis
+1,55454,J615y00,Portal cirrhosis unspecified
+1,40963,J61y300,Portal fibrosis without cirrhosis
+3,5129,J623.00,Portal hypertension
+1,41491,H341.00,Post-infective bronchiectasis
+1,50960,L180500,"Pre-existing diabetes mellitus, insulin-dependent"
+1,50609,L180600,"Pre-existing diabetes mellitus, non-insulin-dependent"
+1,55431,L180X00,"Pre-existing diabetes mellitus, unspecified"
+1,45781,G63..00,Precerebral arterial occlusion
+1,71585,G63z.00,Precerebral artery occlusion NOS
+2,2986,F420200,Preproliferative diabetic retinopathy
+1,6333,J11..11,Prepyloric ulcer
+1,15165,E001.00,Presenile dementia
+1,38438,E001z00,Presenile dementia NOS
+1,40068,G731100,Presenile gangrene
+2,68410,B150200,Primary angiosarcoma of liver
+1,5638,J616000,Primary biliary cirrhosis
+2,16126,B150000,Primary carcinoma of liver
+2,25535,B150.00,Primary malignant neoplasm of liver
+2,44399,B150z00,Primary malignant neoplasm of liver NOS
+6,11035,B593.00,Primary malignant neoplasm of unknown site
+2,11991,B454.11,Primary vulval cancer
+1,44141,N001000,Progressive systemic sclerosis
+2,3286,F420100,Proliferative diabetic retinopathy
+2,31586,B64y100,Prolymphocytic leukaemia
+1,40159,H311000,Purulent chronic bronchitis
+1,3101,J11..12,Pyloric ulcer
+2,5901,B141.12,Rectal carcinoma
+1,20364,H340.00,Recurrent bronchiectasis
+1,29317,J124.00,Recurrent duodenal ulcer
+1,53480,J614300,Recurrent hepatitis
+2,41676,K034.00,Renal cortical necrosis unspecified
+2,34648,K080100,Renal dwarfism
+2,350,K06..00,Renal failure unspecified
+2,50728,K080200,Renal infantilism
+2,18712,B4A..11,Renal malignant neoplasm
+2,45867,K035.00,Renal medullary necrosis unspecified
+2,29638,K080.00,Renal osteodystrophy
+2,34637,K080z00,Renal osteodystrophy NOS
+2,66062,K080300,Renal rickets
+1,64710,7612500,Resection of gastric ulcer by cautery
+2,1481,B600.00,Reticulosarcoma
+2,99240,B600z00,Reticulosarcoma NOS
+2,70374,B600300,Reticulosarcoma of intra-abdominal lymph nodes
+2,71031,B600100,"Reticulosarcoma of lymph nodes of head, face and neck"
+2,95058,B600700,Reticulosarcoma of spleen
+2,60242,B600000,Reticulosarcoma of unspecified site
+2,99951,B60z.00,Reticulosarcoma or lymphosarcoma NOS
+1,33474,N240.00,Rheumatism and fibrositis unspecified
+1,35937,N240z00,Rheumatism or fibrositis NOS
+1,1029,N240000,Rheumatism unspecified
+1,844,N040.00,Rheumatoid arthritis
+1,27603,N04..00,Rheumatoid arthritis and other inflammatory polyarthropathy
+1,51238,N040K00,Rheumatoid arthritis of 1st MTP joint
+1,63198,N040A00,Rheumatoid arthritis of DIP joint of finger
+1,107112,N040M00,Rheumatoid arthritis of IP joint of toe
+1,42299,N040800,Rheumatoid arthritis of MCP joint
+1,41941,N040900,Rheumatoid arthritis of PIP joint of finger
+1,100914,N040400,Rheumatoid arthritis of acromioclavicular joint
+1,51239,N040F00,Rheumatoid arthritis of ankle
+1,63365,N040600,Rheumatoid arthritis of distal radio-ulnar joint
+1,59738,N040500,Rheumatoid arthritis of elbow
+1,49067,N040B00,Rheumatoid arthritis of hip
+1,50863,N040D00,Rheumatoid arthritis of knee
+1,99414,N040L00,Rheumatoid arthritis of lesser MTP joint
+1,71784,N040J00,Rheumatoid arthritis of other tarsal joint
+1,100776,N040C00,Rheumatoid arthritis of sacro-iliac joint
+1,21358,N040200,Rheumatoid arthritis of shoulder
+1,107963,N040300,Rheumatoid arthritis of sternoclavicular joint
+1,73619,N040G00,Rheumatoid arthritis of subtalar joint
+1,70658,N040H00,Rheumatoid arthritis of talonavicular joint
+1,107791,N040E00,Rheumatoid arthritis of tibio-fibular joint
+1,48832,N040700,Rheumatoid arthritis of wrist
+1,43816,G5yA.00,Rheumatoid carditis
+1,9954,H570.00,Rheumatoid lung
+1,31724,N04y000,Rheumatoid lung
+1,46436,N042100,Rheumatoid lung disease
+1,10079,G580.12,Right heart failure
+2,3293,F223.00,Right hemiplegia
+1,19201,G61X100,"Right sided intracerebral haemorrhage, unspecified"
+3,47214,760F300,Rigid oesophagoscopic injection sclerotherapy oesoph varices
+1,13572,G713.11,Ruptured abdominal aortic aneurysm
+1,15304,G715.00,Ruptured aortic aneurysm NOS
+1,29939,G600.00,Ruptured berry aneurysm
+1,63920,G713000,Ruptured suprarenal aortic aneurysm
+1,16800,G711.11,Ruptured thoracic aortic aneurysm
+2,12539,B3...12,Sarcoma of bone and connective tissue
+1,3670,N001.00,Scleroderma
+6,25366,B561300,Secondary and unspec malig neop ant mediastinal lymph nodes
+6,44627,B560800,Secondary and unspec malig neop anterior cervical LN
+6,50199,B563.00,Secondary and unspec malig neop axilla and upper limb LN
+6,73538,B563z00,Secondary and unspec malig neop axilla and upper limb LN NOS
+6,37540,B563000,Secondary and unspec malig neop axillary lymph nodes
+6,62124,B561800,Secondary and unspec malig neop bronchopulmonary lymph nodes
+6,101662,B565200,Secondary and unspec malig neop circumflex iliac LN
+6,41691,B562000,Secondary and unspec malig neop coeliac lymph nodes
+6,18658,B562300,Secondary and unspec malig neop common iliac lymph nodes
+6,68611,B560900,Secondary and unspec malig neop deep cervical LN
+6,61289,B564100,Secondary and unspec malig neop deep inguinal lymph nodes
+6,92703,B560400,Secondary and unspec malig neop deep parotid lymph nodes
+6,95378,B561200,Secondary and unspec malig neop diaphragmatic lymph nodes
+6,69132,B562400,Secondary and unspec malig neop external iliac lymph nodes
+6,61677,B562200,Secondary and unspec malig neop inferior mesenteric LN
+6,69392,B561700,Secondary and unspec malig neop inferior tracheobronchial LN
+6,50904,B563200,Secondary and unspec malig neop infraclavicular lymph nodes
+6,63915,B564.00,Secondary and unspec malig neop inguinal and lower limb LN
+6,105953,B561100,Secondary and unspec malig neop intercostal lymph nodes
+6,84368,B565000,Secondary and unspec malig neop internal iliac lymph nodes
+6,37919,B561000,Secondary and unspec malig neop internal mammary lymph nodes
+6,44931,B562z00,Secondary and unspec malig neop intra-abdominal LN NOS
+6,52736,B562.00,Secondary and unspec malig neop intra-abdominal lymph nodes
+6,72803,B565z00,Secondary and unspec malig neop intrapelvic LN NOS
+6,6701,B565.00,Secondary and unspec malig neop intrapelvic lymph nodes
+6,93716,B561z00,Secondary and unspec malig neop intrathoracic LN NOS
+6,64116,B561.00,Secondary and unspec malig neop intrathoracic lymph nodes
+6,15507,B56z.00,Secondary and unspec malig neop lymph nodes NOS
+6,49214,B560.00,Secondary and unspec malig neop lymph nodes head/face/neck
+6,20159,B56y.00,Secondary and unspec malig neop lymph nodes multiple sites
+6,28059,B560600,Secondary and unspec malig neop of facial lymph nodes
+6,70747,B564z00,Secondary and unspec malig neop of inguinal and leg LN NOS
+6,64918,B560000,Secondary and unspec malig neop of superficial parotid LN
+6,58692,B561500,Secondary and unspec malig neop paratracheal lymph nodes
+6,46409,B563300,Secondary and unspec malig neop pectoral lymph nodes
+6,55463,B561400,Secondary and unspec malig neop post mediastinal lymph nodes
+6,52190,B561900,Secondary and unspec malig neop pulmonary lymph nodes
+6,47366,B565300,Secondary and unspec malig neop sacral lymph nodes
+6,39433,B560500,Secondary and unspec malig neop submandibular lymph nodes
+6,38343,B560700,Secondary and unspec malig neop submental lymph nodes
+6,67797,B561600,Secondary and unspec malig neop superfic tracheobronchial LN
+6,33395,B560200,Secondary and unspec malig neop superficial cervical LN
+6,54278,B564000,Secondary and unspec malig neop superficial inguinal LN
+6,72713,B562100,Secondary and unspec malig neop superficial mesenteric LN
+6,98626,B563100,Secondary and unspec malig neop supratrochlear lymph nodes
+6,66775,B560100,Secondary and unspec malignant neoplasm mastoid lymph nodes
+6,65253,B560300,Secondary and unspec malignant neoplasm occipital lymph node
+6,9618,B56..00,Secondary and unspecified malignant neoplasm of lymph nodes
+1,15424,J616100,Secondary biliary cirrhosis
+6,97832,B58y211,Secondary cancer of the cervix
+6,65490,B58y411,Secondary cancer of the vulva
+6,27651,B58..11,Secondary carcinoma of other specified sites
+6,24301,B57..12,Secondary carcinoma of respiratory and/or digestive systems
+1,22487,C10N.00,Secondary diabetes mellitus
+6,36200,B575z00,Secondary malig neop of large intestine or rectum NOS
+6,35053,B57..00,Secondary malig neop of respiratory and digestive systems
+6,66083,B57z.00,Secondary malig neop of respiratory or digestive system NOS
+6,67396,B576.00,Secondary malig neop of retroperitoneum and peritoneum
+6,97672,B576z00,Secondary malig neop of retroperitoneum or peritoneum NOS
+6,70026,B574z00,Secondary malig neop of small intestine or duodenum NOS
+6,36401,B587.00,Secondary malignant neoplasm of adrenal gland
+6,22146,B581100,Secondary malignant neoplasm of bladder
+6,7654,B585.00,Secondary malignant neoplasm of bone and bone marrow
+6,5198,B583000,Secondary malignant neoplasm of brain
+6,33843,B583.00,Secondary malignant neoplasm of brain and spinal cord
+6,59375,B583z00,Secondary malignant neoplasm of brain or spinal cord NOS
+6,16760,B58y000,Secondary malignant neoplasm of breast
+6,73616,B58y200,Secondary malignant neoplasm of cervix uteri
+6,28727,B575000,Secondary malignant neoplasm of colon
+6,55946,B574000,Secondary malignant neoplasm of duodenum
+6,104480,B58y800,Secondary malignant neoplasm of epididymis and vas deferens
+6,99511,B574200,Secondary malignant neoplasm of ileum
+6,110433,B574100,Secondary malignant neoplasm of jejunum
+6,1952,B580.00,Secondary malignant neoplasm of kidney
+6,44529,B575.00,Secondary malignant neoplasm of large intestine and rectum
+6,15103,B577.00,Secondary malignant neoplasm of liver
+6,36147,B153.00,Secondary malignant neoplasm of liver
+6,4137,B570.00,Secondary malignant neoplasm of lung
+6,51551,B571.00,Secondary malignant neoplasm of mediastinum
+6,56345,B57y.00,Secondary malignant neoplasm of other digestive organ
+6,54120,B584.00,Secondary malignant neoplasm of other part of nervous system
+6,62584,B573.00,Secondary malignant neoplasm of other respiratory organs
+6,22524,B58yz00,Secondary malignant neoplasm of other specified site NOS
+6,16500,B58z.00,Secondary malignant neoplasm of other specified site NOS
+6,18616,B58y.00,Secondary malignant neoplasm of other specified sites
+6,5842,B58..00,Secondary malignant neoplasm of other specified sites
+6,62828,B581z00,Secondary malignant neoplasm of other urinary organ NOS
+6,73213,B581.00,Secondary malignant neoplasm of other urinary organs
+6,44615,B586.00,Secondary malignant neoplasm of ovary
+6,49145,B58y700,Secondary malignant neoplasm of penis
+6,27391,B576100,Secondary malignant neoplasm of peritoneum
+6,16213,B572.00,Secondary malignant neoplasm of pleura
+6,21590,B58y500,Secondary malignant neoplasm of prostate
+6,62909,B575100,Secondary malignant neoplasm of rectum
+6,35364,B576000,Secondary malignant neoplasm of retroperitoneum
+6,19945,B582.00,Secondary malignant neoplasm of skin
+6,55096,B582z00,Secondary malignant neoplasm of skin NOS
+6,9505,B582600,Secondary malignant neoplasm of skin of breast
+6,100296,B582100,Secondary malignant neoplasm of skin of face
+6,43930,B582000,Secondary malignant neoplasm of skin of head
+6,48828,B582500,Secondary malignant neoplasm of skin of hip and leg
+6,35999,B582200,Secondary malignant neoplasm of skin of neck
+6,63896,B582400,Secondary malignant neoplasm of skin of shoulder and arm
+6,41144,B582300,Secondary malignant neoplasm of skin of trunk
+6,64680,B574.00,Secondary malignant neoplasm of small intestine and duodenum
+6,38918,B583100,Secondary malignant neoplasm of spinal cord
+6,34145,B58y600,Secondary malignant neoplasm of testis
+6,45824,B58y900,Secondary malignant neoplasm of tongue
+6,54679,B594.00,Secondary malignant neoplasm of unknown site
+6,60134,B581000,Secondary malignant neoplasm of ureter
+6,53528,B581200,Secondary malignant neoplasm of urethra
+6,55090,B58y100,Secondary malignant neoplasm of uterus
+6,70736,B58y300,Secondary malignant neoplasm of vagina
+6,60335,B58y400,Secondary malignant neoplasm of vulva
+1,51697,C10G.00,Secondary pancreatic diabetes mellitus
+6,67129,B560z00,Secondary unspec malig neop lymph nodes head/face/neck NOS
+1,56860,H320000,Segmental bullous emphysema
+2,21786,B471000,Seminoma of descended testis
+2,2961,B47z.11,Seminoma of testis
+2,7740,B470200,Seminoma of undescended testis
+1,1916,E00..11,Senile dementia
+1,1350,E00..12,Senile/presenile dementia
+1,48149,G681.00,Sequelae of intracerebral haemorrhage
+1,44740,G680.00,Sequelae of subarachnoid haemorrhage
+1,51138,G68W.00,Sequelae/other + unspecified cerebrovascular diseases
+1,93353,H35y600,Sequoiosis (red-cedar asthma)
+1,10919,N04y111,Sero negative polyarthritis
+1,6916,N040P00,Seronegative rheumatoid arthritis
+1,9707,N047.00,Seropositive errosive rheumatoid arthritis
+1,12019,N04X.00,"Seropositive rheumatoid arthritis, unspecified"
+1,3366,663V300,Severe asthma
+1,233,H33z011,Severe asthma attack
+2,35014,B622.00,Sezary's disease
+2,100532,B622z00,Sezary's disease NOS
+1,30235,H434.00,Siderosis
+1,17689,G30..17,Silent myocardial infarction
+1,46460,H42..00,Silica and silicate pneumoconiosis
+1,23446,H42z.00,Silica pneumoconiosis NOS
+1,25603,H310.00,Simple chronic bronchitis
+1,61118,H310z00,Simple chronic bronchitis NOS
+1,16717,H310100,Smokers' cough
+2,19028,B630100,Solitary myeloma
+2,20122,F221.00,Spastic hemiplegia
+2,9375,F241100,Spastic paraplegia
+1,93577,H435.00,Stannosis
+1,4892,H33z000,Status asthmaticus NOS
+1,63830,G63..12,Stenosis of precerebral arteries
+1,26108,C10B000,Steroid induced diabetes mellitus without complication
+1,6865,761J.11,Stomach ulcer operations
+1,1295,J14..15,Stomal ulcer
+1,15821,J13..11,Stress ulcer NOS
+1,18604,G61..12,Stroke due to intracerebral haemorrhage
+2,54793,B682.00,Subacute leukaemia NOS
+2,72774,B642.00,Subacute lymphoid leukaemia
+2,101606,B662.00,Subacute monocytic leukaemia
+2,63475,B652.00,Subacute myeloid leukaemia
+2,104475,B692.00,Subacute myelomonocytic leukaemia
+1,69313,J601200,Subacute yellow atrophy
+1,17326,G60X.00,"Subarachnoid haemorrh from intracranial artery, unspecif"
+1,1786,G60..00,Subarachnoid haemorrhage
+1,23580,G60z.00,Subarachnoid haemorrhage NOS
+1,28807,S62..12,Subarachnoid haemorrhage following injury
+1,42331,G603.00,Subarachnoid haemorrhage from anterior communicating artery
+1,41910,G605.00,Subarachnoid haemorrhage from basilar artery
+1,56007,G601.00,Subarachnoid haemorrhage from carotid siphon and bifurcation
+1,19412,G602.00,Subarachnoid haemorrhage from middle cerebral artery
+1,9696,G604.00,Subarachnoid haemorrhage from posterior communicating artery
+1,60692,G606.00,Subarachnoid haemorrhage from vertebral artery
+1,20113,SK07.00,Subcutaneous emphysema
+1,18912,G623.00,Subdural haemorrhage NOS
+1,93206,H353.00,Suberosis ( cork-handlers' lung )
+1,70005,761J111,Suture of ulcer of stomach NEC
+1,7871,N000.00,Systemic lupus erythematosus
+1,42719,N000z00,Systemic lupus erythematosus NOS
+1,29519,N000300,Systemic lupus erythematosus with organ or sys involv
+1,11920,N000400,Systemic lupus erythematosus with pericarditis
+1,28417,N001.12,Systemic sclerosis
+1,110174,N001200,Systemic sclerosis induced by drugs and chemicals
+2,90201,B62x000,T-zone lymphoma
+1,60805,H420.00,Talc pneumoconiosis
+2,9476,B471100,Teratoma of descended testis
+2,15989,B47z.12,Teratoma of testis
+2,36325,B470300,Teratoma of undescended testis
+1,27563,G711.00,Thoracic aortic aneurysm which has ruptured
+1,23532,G712.00,Thoracic aortic aneurysm without mention of rupture
+1,11430,G715000,"Thoracoabdominal aortic aneurysm, ruptured"
+1,40787,G716000,"Thoracoabdominal aortic aneurysm, without mention of rupture"
+2,65777,B672.11,Thrombocytic leukaemia
+1,44120,J635600,Toxic liver disease with fibrosis and cirrhosis of liver
+1,3163,H300.00,Tracheobronchitis NOS
+1,504,G65..00,Transient cerebral ischaemia
+1,15788,G65zz00,Transient cerebral ischaemia NOS
+1,1895,G65z.00,Transient cerebral ischaemia NOS
+1,58545,S627.00,Traumatic subarachnoid haemorrhage
+1,8181,S628.00,Traumatic subdural haemorrhage
+2,95630,B62x600,True histiocytic lymphoma
+1,63408,7A13411,Tube graft abdominal Aortic aneurysm (emergency)
+1,26232,7A14411,Tube graft of Abdominal aortic aneurysm
+1,17858,C108.12,Type 1 diabetes mellitus
+1,1549,C10E.00,Type 1 diabetes mellitus
+1,35288,C10E800,Type 1 diabetes mellitus - poor control
+1,45914,C108812,Type 1 diabetes mellitus - poor control
+1,40682,C10E900,Type 1 diabetes mellitus maturity onset
+2,49554,C10EF00,Type 1 diabetes mellitus with diabetic cataract
+1,69993,C10E600,Type 1 diabetes mellitus with gangrene
+2,55239,C10EQ00,Type 1 diabetes mellitus with gastroparesis
+1,39070,C10EE00,Type 1 diabetes mellitus with hypoglycaemic coma
+1,70766,C108E12,Type 1 diabetes mellitus with hypoglycaemic coma
+1,10692,C10EM00,Type 1 diabetes mellitus with ketoacidosis
+1,40837,C10EN00,Type 1 diabetes mellitus with ketoacidotic coma
+2,68105,C10EB00,Type 1 diabetes mellitus with mononeuropathy
+2,10418,C10ED00,Type 1 diabetes mellitus with nephropathy
+2,61829,C108212,Type 1 diabetes mellitus with neurological complications
+2,42831,C10E200,Type 1 diabetes mellitus with neurological complications
+2,18230,C108J12,Type 1 diabetes mellitus with neuropathic arthropathy
+2,47649,C10E100,Type 1 diabetes mellitus with ophthalmic complications
+1,93468,C10EG00,Type 1 diabetes mellitus with peripheral angiopathy
+1,30294,C10EL00,Type 1 diabetes mellitus with persistent microalbuminuria
+1,30323,C10EK00,Type 1 diabetes mellitus with persistent proteinuria
+2,46301,C10EC00,Type 1 diabetes mellitus with polyneuropathy
+2,47582,C10E000,Type 1 diabetes mellitus with renal complications
+2,21983,C108012,Type 1 diabetes mellitus with renal complications
+2,41049,C108712,Type 1 diabetes mellitus with retinopathy
+1,18683,C10E500,Type 1 diabetes mellitus with ulcer
+1,69676,C10EA00,Type 1 diabetes mellitus without complication
+1,758,C10F.00,Type 2 diabetes mellitus
+1,17859,C109.12,Type 2 diabetes mellitus
+1,25627,C10F700,Type 2 diabetes mellitus - poor control
+1,45913,C109712,Type 2 diabetes mellitus - poor control
+1,59253,C10FG00,Type 2 diabetes mellitus with arthropathy
+1,49869,C109G12,Type 2 diabetes mellitus with arthropathy
+2,44779,C109E12,Type 2 diabetes mellitus with diabetic cataract
+2,44982,C10FE00,Type 2 diabetes mellitus with diabetic cataract
+1,12736,C10F500,Type 2 diabetes mellitus with gangrene
+2,63690,C10FR00,Type 2 diabetes mellitus with gastroparesis
+1,46917,C10FD00,Type 2 diabetes mellitus with hypoglycaemic coma
+1,61071,C109D12,Type 2 diabetes mellitus with hypoglycaemic coma
+1,32627,C10FN00,Type 2 diabetes mellitus with ketoacidosis
+1,51756,C10FP00,Type 2 diabetes mellitus with ketoacidotic coma
+2,62674,C10FA00,Type 2 diabetes mellitus with mononeuropathy
+2,12640,C10FC00,Type 2 diabetes mellitus with nephropathy
+2,24836,C109C12,Type 2 diabetes mellitus with nephropathy
+2,45919,C109212,Type 2 diabetes mellitus with neurological complications
+2,34268,C10F200,Type 2 diabetes mellitus with neurological complications
+2,35385,C10FH00,Type 2 diabetes mellitus with neuropathic arthropathy
+2,66965,C109H12,Type 2 diabetes mellitus with neuropathic arthropathy
+2,47321,C10F100,Type 2 diabetes mellitus with ophthalmic complications
+2,70316,C109112,Type 2 diabetes mellitus with ophthalmic complications
+1,60699,C109F12,Type 2 diabetes mellitus with peripheral angiopathy
+1,37806,C10FF00,Type 2 diabetes mellitus with peripheral angiopathy
+1,18390,C10FM00,Type 2 diabetes mellitus with persistent microalbuminuria
+1,26054,C10FL00,Type 2 diabetes mellitus with persistent proteinuria
+2,18425,C10FB00,Type 2 diabetes mellitus with polyneuropathy
+2,18777,C10F000,Type 2 diabetes mellitus with renal complications
+2,18209,C109012,Type 2 diabetes mellitus with renal complications
+2,18496,C10F600,Type 2 diabetes mellitus with retinopathy
+2,42762,C109612,Type 2 diabetes mellitus with retinopathy
+1,49074,C10F400,Type 2 diabetes mellitus with ulcer
+1,65704,C109412,Type 2 diabetes mellitus with ulcer
+1,47954,C10F900,Type 2 diabetes mellitus without complication
+1,24423,C108.13,Type I diabetes mellitus
+1,12455,C10E.11,Type I diabetes mellitus
+1,46850,C108811,Type I diabetes mellitus - poor control
+1,63017,C108911,Type I diabetes mellitus maturity onset
+2,17545,C108F11,Type I diabetes mellitus with diabetic cataract
+1,42729,C108E11,Type I diabetes mellitus with hypoglycaemic coma
+1,62209,C10EM11,Type I diabetes mellitus with ketoacidosis
+1,66145,C10EN11,Type I diabetes mellitus with ketoacidotic coma
+2,99231,C108B11,Type I diabetes mellitus with mononeuropathy
+2,66872,C108D11,Type I diabetes mellitus with nephropathy
+2,49146,C108211,Type I diabetes mellitus with neurological complications
+2,61344,C108011,Type I diabetes mellitus with renal complications
+2,38161,C108711,Type I diabetes mellitus with retinopathy
+1,51957,C108511,Type I diabetes mellitus with ulcer
+1,22884,C10F.11,Type II diabetes mellitus
+1,18219,C109.13,Type II diabetes mellitus
+1,24458,C109711,Type II diabetes mellitus - poor control
+1,47315,C10F711,Type II diabetes mellitus - poor control
+1,18143,C109G11,Type II diabetes mellitus with arthropathy
+2,48192,C109E11,Type II diabetes mellitus with diabetic cataract
+1,62107,C109511,Type II diabetes mellitus with gangrene
+1,56268,C109D11,Type II diabetes mellitus with hypoglycaemic coma
+2,50813,C109A11,Type II diabetes mellitus with mononeuropathy
+2,64571,C109C11,Type II diabetes mellitus with nephropathy
+2,102201,C10FC11,Type II diabetes mellitus with nephropathy
+2,67905,C109211,Type II diabetes mellitus with neurological complications
+2,47816,C109H11,Type II diabetes mellitus with neuropathic arthropathy
+2,59725,C109111,Type II diabetes mellitus with ophthalmic complications
+1,54899,C109F11,Type II diabetes mellitus with peripheral angiopathy
+1,60796,C10FL11,Type II diabetes mellitus with persistent proteinuria
+2,47409,C109B11,Type II diabetes mellitus with polyneuropathy
+2,50527,C10FB11,Type II diabetes mellitus with polyneuropathy
+2,50225,C109011,Type II diabetes mellitus with renal complications
+2,57278,C10F011,Type II diabetes mellitus with renal complications
+2,58604,C109611,Type II diabetes mellitus with retinopathy
+2,49655,C10F611,Type II diabetes mellitus with retinopathy
+1,55075,C109411,Type II diabetes mellitus with ulcer
+1,43089,E004000,Uncomplicated arteriosclerotic dementia
+1,42602,E001000,Uncomplicated presenile dementia
+1,7323,E000.00,Uncomplicated senile dementia
+1,28366,J12yy00,Unspec duodenal ulcer; unspec haemorrhage and/or perforation
+1,94397,J11yy00,Unspec gastric ulcer; unspec haemorrhage and/or perforation
+2,103353,B62z300,Unspec malig neop lymphoid/histiocytic intra-abdominal nodes
+2,107638,B62z400,Unspec malig neop lymphoid/histiocytic lymph node axilla/arm
+2,64427,B62z100,Unspec malig neop lymphoid/histiocytic lymph node head/neck
+2,71609,B62z500,Unspec malig neop lymphoid/histiocytic nodes inguinal/leg
+2,109342,B62z600,Unspec malig neop lymphoid/histiocytic of intrapelvic nodes
+2,93384,B62z200,Unspec malig neop lymphoid/histiocytic of intrathoracic node
+2,101465,B62z800,Unspec malig neop lymphoid/histiocytic of multiple sites
+2,108037,B62z000,Unspec malig neop lymphoid/histiocytic of unspecified site
+2,31794,B627W00,Unspecified B-cell non-Hodgkin's lymphoma
+1,53669,J12y.00,Unspecified duodenal ulcer
+1,65737,J12yz00,Unspecified duodenal ulcer NOS
+1,93436,J12y300,Unspecified duodenal ulcer with haemorrhage and perforation
+1,71904,J12y400,Unspecified duodenal ulcer with obstruction
+1,657,J12y200,Unspecified duodenal ulcer with perforation
+1,71150,J12y000,Unspecified duodenal ulcer without mention of complication
+1,53081,J11y.00,Unspecified gastric ulcer
+1,44284,J11yz00,Unspecified gastric ulcer NOS
+1,57958,J11y100,Unspecified gastric ulcer with haemorrhage
+1,73697,J11y400,Unspecified gastric ulcer with obstruction
+1,36461,J11y200,Unspecified gastric ulcer with perforation
+1,73338,J11y000,Unspecified gastric ulcer without mention of complication
+1,63482,J14y.00,Unspecified gastrojejunal ulcer
+1,66092,J14yz00,Unspecified gastrojejunal ulcer NOS
+1,60346,J14y100,Unspecified gastrojejunal ulcer with haemorrhage
+1,15979,J14y200,Unspecified gastrojejunal ulcer with perforation
+1,50497,J13y.00,Unspecified peptic ulcer
+1,60249,J13yz00,Unspecified peptic ulcer NOS
+1,70456,J13y100,Unspecified peptic ulcer with haemorrhage
+1,96622,J13y300,Unspecified peptic ulcer with haemorrhage and perforation
+1,99670,J13y400,Unspecified peptic ulcer with obstruction
+1,64111,J13y200,Unspecified peptic ulcer with perforation
+1,67082,J13y000,Unspecified peptic ulcer without mention of complication
+1,9013,66AJ.11,Unstable diabetes
+1,54600,C10E412,Unstable insulin dependent diabetes mellitus
+1,26855,C108400,Unstable insulin dependent diabetes mellitus
+1,43921,C10E400,Unstable type 1 diabetes mellitus
+1,60107,C108411,Unstable type I diabetes mellitus
+1,12590,G58z.11,Weak heart
+1,39478,H35y700,Wood asthma
+1,100253,J615C00,Xanthomatous portal cirrhosis
+1,51166,7A11311,Y graft abdominal Aortic aneurysm
+1,92925,7A11211,Y graft of abdominal Aortic aneurysm (emergency)
+1,4970,R054.00,[D]Gangrene
+1,37750,R054z00,[D]Gangrene NOS
+1,53634,R054200,[D]Gangrene of toe in diabetic
+1,51634,R054000,"[D]Gangrene, spreading cutaneous"
+1,31053,R054300,[D]Widespread diabetic foot gangrene
+1,41271,ZV12C00,[V] Personal history of gastric ulcer
+2,40561,ZV10711,[V]Personal history of Hodgkin's disease
+2,36693,ZV10600,[V]Personal history of leukaemia
+2,94597,ZV10611,[V]Personal history of lymphoid leukaemia
+2,62814,ZV10000,[V]Personal history of malig neop of gastrointestinal tract
+2,64568,ZV10012,[V]Personal history of malig neop of gastrointestinal tract
+2,49289,ZV10100,[V]Personal history of malig neop of trachea/bronchus/lung
+2,72262,ZV10200,[V]Personal history of malig neop other intrathoracic organ
+2,12106,ZV10.00,[V]Personal history of malignant neoplasm
+2,61655,ZV10211,[V]Personal history of malignant neoplasm - accessory sinus
+2,68018,ZV10011,[V]Personal history of malignant neoplasm of anus
+2,35816,ZV10511,[V]Personal history of malignant neoplasm of bladder
+2,46282,ZV10y11,[V]Personal history of malignant neoplasm of bone
+2,48085,ZV10y12,[V]Personal history of malignant neoplasm of brain
+2,16639,ZV10300,[V]Personal history of malignant neoplasm of breast
+2,32246,ZV10111,[V]Personal history of malignant neoplasm of bronchus
+2,23936,ZV10411,[V]Personal history of malignant neoplasm of cervix uteri
+2,103100,ZV10y13,[V]Personal history of malignant neoplasm of eye
+2,109429,ZV10412,[V]Personal history of malignant neoplasm of genital organ
+2,9444,ZV10400,[V]Personal history of malignant neoplasm of genital organ
+2,28881,ZV10513,[V]Personal history of malignant neoplasm of kidney
+2,47683,ZV10512,[V]Personal history of malignant neoplasm of kidney
+2,57727,ZV10014,[V]Personal history of malignant neoplasm of large intestine
+2,43311,ZV10212,[V]Personal history of malignant neoplasm of larynx
+2,58177,ZV10015,[V]Personal history of malignant neoplasm of liver
+2,29284,ZV10112,[V]Personal history of malignant neoplasm of lung
+2,39863,ZV10214,[V]Personal history of malignant neoplasm of nose
+2,51001,ZV10016,[V]Personal history of malignant neoplasm of oesophagus
+2,52141,ZV10414,[V]Personal history of malignant neoplasm of ovary
+2,37306,ZV10415,[V]Personal history of malignant neoplasm of prostate
+2,62785,ZV10017,[V]Personal history of malignant neoplasm of rectum
+2,47669,ZV10y14,[V]Personal history of malignant neoplasm of skin
+2,49447,ZV10018,[V]Personal history of malignant neoplasm of stomach
+2,48808,ZV10416,[V]Personal history of malignant neoplasm of testis
+2,35771,ZV10y15,[V]Personal history of malignant neoplasm of thyroid
+2,45803,ZV10y16,[V]Personal history of malignant neoplasm of tongue
+2,99931,ZV10019,[V]Personal history of malignant neoplasm of tongue
+2,30322,ZV10500,[V]Personal history of malignant neoplasm of urinary organ
+2,46779,ZV10417,[V]Personal history of malignant neoplasm of uterine body
+2,110058,ZV10613,[V]Personal history of myeloid leukaemia
+2,66457,ZV10y00,[V]Personal history of other specified malignant neoplasm
+1,26261,ZV12711,[V]Personal history of peptic ulcer
+2,68612,ZV10z00,[V]Personal history of unspecified malignant neoplasm
+2,72204,ZV10700,[V]Personal history other lymphatic/haematopoietic neoplasm
+1,34944,Eu02z13,[X] Primary degenerative dementia NOS
+1,4357,Eu02z14,[X] Senile dementia NOS
+1,27759,Eu02z16,"[X] Senile dementia, depressed or paranoid type"
+1,4693,Eu02z00,[X] Unspecified dementia
+6,97091,ByuC500,[X]2ndry malignant neoplasm/bladder+oth+unsp urinary organs
+6,68332,ByuC600,[X]2ndry malignant neoplasm/oth+unspec parts/nervous system
+6,66163,ByuC200,[X]2ndry+unspcf malignant neoplasm lymph nodes/multi regions
+2,60053,Byu..00,[X]Additional neoplasm classification terms
+1,8195,Eu00z11,[X]Alzheimer's dementia unspec
+1,102719,Gyu7200,"[X]Aortic aneurysm of unspecified site, nonruptured"
+1,102725,Gyu7100,"[X]Aortic aneurysm of unspecified site, ruptured"
+1,9565,Eu01.11,[X]Arteriosclerotic dementia
+1,73901,Gyu6.00,[X]Cerebrovascular diseases
+1,30706,Eu00200,"[X]Dementia in Alzheimer's dis, atypical or mixed type"
+1,7664,Eu00.00,[X]Dementia in Alzheimer's disease
+1,49263,Eu00000,[X]Dementia in Alzheimer's disease with early onset
+1,38678,Eu00100,[X]Dementia in Alzheimer's disease with late onset
+1,29386,Eu00z00,"[X]Dementia in Alzheimer's disease, unspecified"
+1,12621,Eu02.00,[X]Dementia in other diseases classified elsewhere
+1,64267,Eu02y00,[X]Dementia in other specified diseases classif elsewhere
+1,52212,Cyu2.00,[X]Diabetes mellitus
+2,64515,ByuDC00,"[X]Diffuse non-Hodgkin's lymphoma, unspecified"
+6,96751,AyuCB00,"[X]HIV disease result/haematological+immunologic abnorms,NEC"
+6,102117,AyuC300,[X]HIV disease resulting in multiple infections
+6,69767,AyuC600,[X]HIV disease resulting in other non-Hodgkin's lymphoma
+6,102252,AyuCC00,[X]HIV disease resulting in other specified conditions
+6,107807,AyuC100,[X]HIV disease resulting in other viral infections
+6,104134,AyuC400,[X]HIV disease resulting/other infectious+parasitic diseases
+2,103532,K0A5500,[X]Heredtry nephrpthy NEC difus mesangiocapilry glomneph
+6,62854,AyuC.00,[X]Human immunodeficiency virus disease
+1,106515,Hyu4300,[X]Hypersensitivity pneumonitis due to other organic dusts
+1,96630,Gyu6F00,"[X]Intracerebral haemorrhage in hemisphere, unspecified"
+2,93665,Byu5300,"[X]Kaposi's sarcoma, unspecified"
+1,26270,Eu02500,[X]Lewy body dementia
+2,91896,Byu5800,"[X]Mal neoplasm/connective+soft tissue of trunk,unspecified"
+2,105072,Byu5500,[X]Mal neoplasm/overlap les/periph nerv+autonomic nerv systm
+2,47633,ByuA300,"[X]Malig neopl, overlap lesion brain & other part of CNS"
+2,56925,Byu4000,[X]Malignant melanoma of other+unspecified parts of face
+2,19444,Byu4100,"[X]Malignant melanoma of skin, unspecified"
+2,99096,Byu2300,[X]Malignant neopl/overlapping les/resp+intrathoracic organs
+2,40749,Byu3.00,[X]Malignant neoplasm of bone and articular cartilage
+2,12499,Byu6.00,[X]Malignant neoplasm of breast
+2,40595,Byu2000,"[X]Malignant neoplasm of bronchus or lung, unspecified"
+2,35180,Byu1.00,[X]Malignant neoplasm of digestive organs
+2,35285,ByuA.00,"[X]Malignant neoplasm of eye, brain and other parts of cent"
+2,55588,Byu7300,"[X]Malignant neoplasm of female genital organ, unspecified"
+2,40598,Byu7.00,[X]Malignant neoplasm of female genital organs
+6,35186,ByuC.00,"[X]Malignant neoplasm of ill-defined, secondary and unspeci"
+2,45766,Byu1200,"[X]Malignant neoplasm of intestinal tract, part unspecified"
+2,58973,Byu0.00,"[X]Malignant neoplasm of lip, oral cavity and pharynx"
+2,45262,Byu8200,"[X]Malignant neoplasm of male genital organ, unspecified"
+2,40671,Byu8.00,[X]Malignant neoplasm of male genital organs
+2,50292,Byu2500,"[X]Malignant neoplasm of mediastinum, part unspecified"
+2,63925,ByuA200,"[X]Malignant neoplasm of meninges, unspecified"
+2,40592,Byu5.00,[X]Malignant neoplasm of mesothelial and soft tissue
+2,39027,ByuC000,[X]Malignant neoplasm of other specified sites
+2,95671,Byu5700,"[X]Malignant neoplasm of peritoneum, unspecified"
+2,35325,Byu2.00,[X]Malignant neoplasm of respiratory and intrathoracic orga
+2,56121,Byu4300,"[X]Malignant neoplasm of skin, unspecified"
+2,45260,Byu9000,"[X]Malignant neoplasm of urinary organ, unspecified"
+2,35113,Byu9.00,[X]Malignant neoplasm of urinary tract
+2,64497,Byu7000,"[X]Malignant neoplasm of uterine adnexa, unspecified"
+2,60162,Byu5A00,[X]Malignant neoplasm overlapping lesion of skin
+6,52029,ByuC800,[X]Malignant neoplasm without specification of site
+2,43151,Byu3300,"[X]Malignant neoplasm/bone+articular cartilage, unspecified"
+2,73296,Byu3100,"[X]Malignant neoplasm/bones+articular cartilage/limb,unspfd"
+2,41515,ByuA100,"[X]Malignant neoplasm/central nervous system, unspecified"
+2,91457,Byu5900,"[X]Malignant neoplasm/connective + soft tissue,unspecified"
+2,86997,Byu2400,[X]Malignant neoplasm/ill-defined sites within resp system
+2,68027,ByuA000,[X]Malignant neoplasm/other and unspecified cranial nerves
+2,57756,Byu7100,[X]Malignant neoplasm/other specified female genital organs
+2,57191,Byu8000,[X]Malignant neoplasm/other specified male genital organs
+2,63300,Byu3200,[X]Malignant neoplasm/overlap lesion/bone+articulr cartilage
+2,66444,Byu2100,"[X]Malignant neoplasm/overlap lesion/heart,mediastinm+pleura"
+6,96226,ByuC100,[X]Malignant neoplasm/overlap lesion/other+ill-defined sites
+2,101668,Byu5400,"[X]Malignant neoplasm/peripheral nerves of trunk,unspecified"
+2,40740,ByuD.00,"[X]Malignant neoplasms of lymphoid, haematopoietic and rela"
+2,63598,ByuE.00,[X]Malignant neoplasms/independent (primary) multiple sites
+2,64897,ByuE000,[X]Malignant neoplasms/independent(primary)multiple sites
+2,49292,Byu1300,[X]Malignant neoplsm/ill-defin sites within digestive system
+2,19144,Byu4.00,[X]Melanoma and other malignant neoplasms of skin
+2,21715,Byu5011,[X]Mesothelioma of lung
+2,67034,Byu5000,[X]Mesothelioma of other sites
+2,30526,Byu5100,"[X]Mesothelioma, unspecified"
+1,31016,Eu01300,[X]Mixed cortical and subcortical vascular dementia
+1,11175,Eu01100,[X]Multi-infarct dementia
+2,7940,ByuDF11,[X]Non-Hodgkin's lymphoma NOS
+2,8649,ByuDF00,"[X]Non-Hodgkin's lymphoma, unspecified type"
+1,92036,Gyu6600,[X]Occlusion and stenosis of other cerebral arteries
+1,90572,Gyu6500,[X]Occlusion and stenosis of other precerebral arteries
+3,105611,Gyu9400,[X]Oesophageal varices in diseases classified elsewhere
+2,109714,ByuDD00,[X]Oth and unspecif peripheral & cutaneous T-cell lymphomas
+2,57184,Byu4200,[X]Oth malignant neoplasm/skin of oth+unspecfd parts of face
+2,105025,ByuDA00,"[X]Oth spcf mal neoplsm/lymphoid,haematopoietic+rltd tissue"
+2,43415,ByuD000,[X]Other Hodgkin's disease
+2,53945,Kyu2000,[X]Other acute renal failure
+1,6015,Jyu7100,[X]Other and unspecified cirrhosis of liver
+2,53940,Kyu2100,[X]Other chronic renal failure
+1,66058,Hyu3000,[X]Other emphysema
+1,58706,Nyu4300,[X]Other forms of systemic lupus erythematosus
+1,71763,Nyu4500,[X]Other forms of systemic sclerosis
+1,53810,Gyu6200,[X]Other intracerebral haemorrhage
+2,65165,ByuD900,[X]Other leukaemia of unspecified cell type
+2,67029,ByuD500,[X]Other lymphoid leukaemia
+2,102688,ByuD400,[X]Other malignant immunoproliferative diseases
+2,89762,ByuD700,[X]Other monocytic leukaemia
+2,61693,ByuD600,[X]Other myeloid leukaemia
+1,93715,Nyu1100,[X]Other seropositive rheumatoid arthritis
+2,43490,Byu1100,[X]Other specified carcinomas of liver
+1,111096,Gyu6700,[X]Other specified cerebrovascular diseases
+1,41686,Cyu2000,[X]Other specified diabetes mellitus
+2,89329,ByuD800,[X]Other specified leukaemias
+1,73961,Gyu7400,[X]Other specified peripheral vascular diseases
+1,70221,Nyu1200,[X]Other specified rheumatoid arthritis
+2,64336,ByuD300,[X]Other specified types of non-Hodgkin's lymphoma
+1,65745,Gyu6100,[X]Other subarachnoid haemorrhage
+2,98596,ByuD200,[X]Other types of diffuse non-Hodgkin's lymphoma
+2,67518,ByuD100,[X]Other types of follicular non-Hodgkin's lymphoma
+1,55313,Eu01y00,[X]Other vascular dementia
+1,105939,Hyu4000,[X]Pneumoconiosis due to other dust containing silica
+1,55838,Eu01111,[X]Predominantly cortical dementia
+1,25704,Eu00011,"[X]Presenile dementia,Alzheimer's type"
+1,43346,Eu00113,"[X]Primary degen dementia of Alzheimer's type, senile onset"
+1,60059,Eu00012,"[X]Primary degen dementia, Alzheimer's type, presenile onset"
+2,61930,Kyu2.00,[X]Renal failure
+1,106440,Nyu1000,[X]Rheumatoid arthritis+involvement/other organs or systems
+6,54253,ByuC700,[X]Secondary malignant neoplasm of other specified sites
+6,57481,ByuC300,[X]Secondary malignant neoplasm/oth+unspc respiratory organs
+6,88022,ByuC400,[X]Secondary malignant neoplasm/oth+unspcfd digestive organs
+1,11379,Eu00112,"[X]Senile dementia,Alzheimer's type"
+1,56202,Nyu1G00,"[X]Seropositive rheumatoid arthritis, unspecified"
+1,108668,Gyu6000,[X]Subarachnoid haemorrhage from other intracranial arteries
+1,8934,Eu01200,[X]Subcortical vascular dementia
+2,63375,ByuDE00,[X]Unspecified B-cell non-Hodgkin's lymphoma
+6,100769,AyuCD00,[X]Unspecified human immunodeficiency virus [HIV] disease
+1,6578,Eu01.00,[X]Vascular dementia
+1,46488,Eu01000,[X]Vascular dementia of acute onset
+1,19393,Eu01z00,"[X]Vascular dementia, unspecified"

@@ -1,0 +1,20 @@
+﻿Outcome selection in CPRD,,
+Medcode,Readcode,Readterm
+451,J521.11,Irritable bowel syndrome
+1796,J4...12,Inflammatory bowel disease
+2194,A993.11,Reiter's syndrome
+8103,A993.00,Reiter's disease / syndrome
+73751,N03xF00,"Arthritis associated with other disease, talonavicular joint"
+92962,N03x200,"Arthritis associated with other disease, acromioclavic joint"
+99026,N03xG00,"Arthritis associated with other disease, other tarsal joint"
+72011,N03xH00,"Arthritis associated with other disease, 1st MTP joint"
+96400,N03xE00,"Arthritis associated with other disease, subtalar joint"
+57901,N03x600,"Arthritis associated with other disease, MCP joint"
+94590,N03x100,"Arthritis associated with other disease, sternoclavic joint"
+73774,N03x800,"Arthritis associated with other disease, DIP joint of finger"
+73413,N03x400,"Arthritis associated with other disease, dist rad-uln joint"
+73716,N03x700,"Arthritis associated with other disease, PIP joint of finger"
+100356,N03xA00,"Arthritis associated with other disease, sacro-iliac joint"
+1607,F370000,Guillain-Barre syndrome
+704,J410100,Ulcerative colitis
+1796,J4….12,Inflammatory bowel disease

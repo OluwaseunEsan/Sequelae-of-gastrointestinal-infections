@@ -1,0 +1,22 @@
+﻿List of ICD-10 codes used for outcome selection in HES and ONS data,
+ICD-10 code,Condition
+A41.5,Sepsis due to other Gram-negative organisms
+A00-A09,Intestinal infectious diseases
+G61,Inflammatory polyneuropathy
+G61.0,Guillian-Barre syndrome
+I30,Acute pericarditis
+I31,Other diseases of pericardium
+I32,Pericarditis in diseases clasifies elsewhere
+I33,Acute and subacute endocarditis
+I38,"Endocarditis, valve unspecified"
+I39,Endocarditis and heart valve disorders in diseases classified elsewhere
+I40,Acute myocarditis
+I41,Myocarditis in diseases classified elsewhere
+K35-K38,Diseases of appendix
+K55,Vascular disorders of intestines
+K58,Irritable bowel syndrome
+K59,Other functional intestinal disorders
+K63,Other diseases of intestine
+K55-K64,Other diseases of intestine
+M00-M03,Infectious athropathies
+U82-U84,Resistance to antimicrobial drugs
