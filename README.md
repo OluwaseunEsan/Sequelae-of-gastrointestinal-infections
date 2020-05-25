@@ -3,10 +3,6 @@ Linked electronic health record to determine incidence, associated risk factors,
 
 This repository contains all the codes for selecting patients into the study, exposures, and outcomes of interest. The study abstract is below and full paper is available at https://www.sciencedirect.com/science/article/pii/S0163445320303066
 
-Hope you find the codelists useful. Cite as:
-
-Esan OB, Perera R, McCarthy N, Violato M, Fanshawe TR. Incidence, risk factors, and health service burden of sequelae of Campylobacter and Non-typhoidal Salmonella infections in England, 2000-2015: a retrospective cohort study using linked electronic health records: Sequelae of gastrointestinal infections [published online ahead of print, 2020 May 20]. J Infect. 2020;S0163-4453(20)30306-6. doi:10.1016/j.jinf.2020.05.027
-
 
 
 ABSTRACT
@@ -21,3 +17,8 @@ Of 20,471 patients with GII (Campylobacter 17,838), less than 2% (347) developed
 
 Interpretation
 Sequelae of Campylobacter and NTS infections are rare but associated with increased NHS costs. Prior prescription of PPI may be a modifiable risk factor. Incidence of sequelae, healthcare resource use and costs are essential parameters for future burden of disease studies.
+
+
+Cite as:
+
+Esan OB, Perera R, McCarthy N, Violato M, Fanshawe TR. Incidence, risk factors, and health service burden of sequelae of Campylobacter and Non-typhoidal Salmonella infections in England, 2000-2015: a retrospective cohort study using linked electronic health records: Sequelae of gastrointestinal infections [published online ahead of print, 2020 May 20]. J Infect. 2020;S0163-4453(20)30306-6. doi:10.1016/j.jinf.2020.05.027
