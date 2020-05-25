@@ -7,6 +7,7 @@ This repository contains all the codes for selecting patients into the study, ex
 
 ABSTRACT
 Background
+
 Reactive arthritis, irritable bowel syndrome (IBS), Guillain-Barré syndrome, ulcerative colitis, and Crohn's disease may be sequelae of Campylobacter or non-typhoidal Salmonella (NTS) infections. Proton pump inhibitors (PPI) and antibiotics may increase the risk of gastrointestinal infections (GII); however, their impact on sequelae onset is unclear. We investigated the incidence of sequelae, their association with antibiotics and PPI prescription, and assessed the economic impact on the NHS.
 
 Methods
